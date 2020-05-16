@@ -24,7 +24,7 @@ func main() {
 		case 0x00:
 			fmt.Printf("NOP\n")
 		case 0x01:
-			fmt.Printf("LXI    B,$%02x%02x\n", rom[pc+2], rom[pc+1])
+			fmt.Printf("LXI    B,$%02X%02X\n", rom[pc+2], rom[pc+1])
 			opbytes = 3
 		case 0x02:
 			fmt.Printf("STAX   B\n")
@@ -35,17 +35,17 @@ func main() {
 		case 0x05:
 			fmt.Printf("DCR    B\n")
 		case 0x06:
-			fmt.Printf("MVI    B,$%#02x\n", rom[pc+1])
-			opbytes = 2
+			fmt.Printf("MVI    B,$%02X%02X\n", rom[pc+2], rom[pc+1])
+			opbytes = 3
 		case 0x07:
 			fmt.Printf("RLC\n")
 		case 0x08:
 			fmt.Printf("NOP\n")
 		case 0x3e:
-			fmt.Printf("MVI    A,$%#02x\n", rom[pc+1])
+			fmt.Printf("MVI    A,$%02X\n", rom[pc+1])
 			opbytes = 2
 		case 0xc3:
-			fmt.Printf("JMP    $%02x%02x\n", rom[pc+2], rom[pc+1])
+			fmt.Printf("JMP    $%02X%02X\n", rom[pc+2], rom[pc+1])
 			opbytes = 3
 		}
 		pc += opbytes
