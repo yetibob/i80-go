@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/yetibob/i80/disassembler/cmd"
+	"github.com/yetibob/i80/regen/cmd"
 )
 
 func main() {

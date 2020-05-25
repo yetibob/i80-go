@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 
 	"github.com/spf13/cobra"
-	"github.com/yetibob/i80/disassembler/op"
+	"github.com/yetibob/i80/regen/op"
 )
 
 var (
