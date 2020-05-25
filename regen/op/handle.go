@@ -565,7 +565,7 @@ func HandleOp(op byte, buf []byte) int {
 	case 0xFF:
 		fmt.Println("Handling OpCode: 0xFF")
 	default:
-		panic("Unknown OpCode")
+		fmt.Printf("Unkown OpCode: 0x%02X", op)
 	}
 
 	return opbytes

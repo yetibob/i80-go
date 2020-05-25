@@ -15,13 +15,11 @@ var (
 		Run: func(cmd *cobra.Command, args []string) {
 			// read rom into buffer
 			romFile, err := cmd.PersistentFlags().GetString("rom")
-			if err != nil {
-				panic(err)
-			}
+			panicErr(err)
+
 			rom, err := ioutil.ReadFile(romFile)
-			if err != nil {
-				panic(err)
-			}
+			romFile, err := cmd.PersistentFlags().GetString("rom")
+			panicErr(err)
 
 			pc := 0
 
@@ -36,6 +34,12 @@ var (
 		},
 	}
 )
+
+func panicErr(err error) {
+	if err != nil {
+		panic(err)
+	}
+}
 
 // Execute t
 func Execute() error {
