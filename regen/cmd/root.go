@@ -46,7 +46,8 @@ func Execute() error {
 
 func init() {
 	cobra.OnInitialize(initConfig)
-	rootCmd.PersistentFlags().StringP("rom", "r", "./roms/invaders.h", "rom file to regen")
+	rootCmd.PersistentFlags().StringP("rom", "r", "", "rom file to regen")
+	rootCmd.MarkPersistentFlagRequired("rom")
 }
 
 func initConfig() {
