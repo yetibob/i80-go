@@ -18,7 +18,6 @@ var (
 			panicErr(err)
 
 			rom, err := ioutil.ReadFile(romFile)
-			romFile, err := cmd.PersistentFlags().GetString("rom")
 			panicErr(err)
 
 			pc := 0
@@ -27,8 +26,7 @@ var (
 				if pc == len(rom) {
 					break
 				}
-				code := rom[pc]
-				adv := op.HandleOp(code, rom[pc+1:pc+3])
+				adv := op.HandleOp(rom[pc : pc+3])
 				pc += adv
 			}
 		},
