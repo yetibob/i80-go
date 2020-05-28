@@ -1,0 +1,1023 @@
+NOP
+NOP
+NOP
+JMP     B,D16	$18D4
+NOP
+NOP
+PUSH    PSW
+PUSH    B
+PUSH    D
+PUSH    H
+JMP     B,D16	$008C
+NOP
+PUSH    PSW
+PUSH    B
+PUSH    D
+PUSH    H
+MVI     B,D8	$80
+STA     B,D16	$2072
+LXI     B,D16	$20C0
+DCR     M
+CALL    B,D16	$17CD
+IN      B,D8	$01
+RRC
+JC      B,D16	$0067
+LDA     B,D16	$20EA
+ANA     A
+JZ      B,D16	$0042
+LDA     B,D16	$20EB
+CPI     B,D8	$99
+JZ      B,D16	$003E
+ADI     B,D8	$01
+DAA
+STA     B,D16	$20EB
+CALL    B,D16	$1947
+XRA     A
+STA     B,D16	$20EA
+LDA     B,D16	$20E9
+ANA     A
+JZ      B,D16	$0082
+LDA     B,D16	$20EF
+ANA     A
+JNZ     B,D16	$006F
+LDA     B,D16	$20EB
+ANA     A
+JNZ     B,D16	$005D
+CALL    B,D16	$0ABF
+JMP     B,D16	$0082
+LDA     B,D16	$2093
+ANA     A
+JNZ     B,D16	$0082
+JMP     B,D16	$0765
+MVI     B,D8	$01
+STA     B,D16	$20EA
+JMP     B,D16	$003F
+CALL    B,D16	$1740
+LDA     B,D16	$2032
+STA     B,D16	$2080
+CALL    B,D16	$0100
+CALL    B,D16	$0248
+CALL    B,D16	$0913
+NOP
+POP     H
+POP     D
+POP     B
+POP     PSW
+EI
+RET
+NOP
+NOP
+NOP
+NOP
+XRA     A
+STA     B,D16	$2072
+LDA     B,D16	$20E9
+ANA     A
+JZ      B,D16	$0082
+LDA     B,D16	$20EF
+ANA     A
+JNZ     B,D16	$00A5
+LDA     B,D16	$20C1
+RRC
+JNC     B,D16	$0082
+LXI     B,D16	$2020
+CALL    B,D16	$024B
+CALL    B,D16	$0141
+JMP     B,D16	$0082
+CALL    B,D16	$0886
+PUSH    H
+MOV     A,M
+INX     H
+MOV     H,M
+MOV     L,A
+SHLD    B,D16	$2009
+SHLD    B,D16	$200B
+POP     H
+DCX     H
+MOV     A,M
+CPI     B,D8	$03
+JNZ     B,D16	$00C8
+DCR     A
+STA     B,D16	$2008
+CPI     B,D8	$FE
+MVI     B,D8	$00
+JNZ     B,D16	$00D3
+INR     A
+STA     B,D16	$200D
+RET
+MVI     B,D8	$02
+STA     B,D16	$21FB
+STA     B,D16	$22FB
+JMP     B,D16	$08E4
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+LXI     B,D16	$2002
+MOV     A,M
+ANA     A
+JNZ     B,D16	$1538
+PUSH    H
+LDA     B,D16	$2006
+MOV     L,A
+LDA     B,D16	$2067
+MOV     H,A
+MOV     A,M
+ANA     A
+POP     H
+JZ      B,D16	$0136
+INX     H
+INX     H
+MOV     A,M
+INX     H
+MOV     B,M
+ANI     B,D8	$FE
+RLC
+RLC
+RLC
+MOV     E,A
+MVI     B,D8	$00
+LXI     B,D16	$1C00
+DAD     D
+XCHG
+MOV     A,B
+ANA     A
+CNZ     B,D16	$013B
+LHLD    B,D16	$200B
+MVI     B,D8	$10
+CALL    B,D16	$15D3
+XRA     A
+STA     B,D16	$2000
+RET
+LXI     B,D16	$0030
+DAD     D
+XCHG
+RET
+LDA     B,D16	$2068
+ANA     A
+RZ
+LDA     B,D16	$2000
+ANA     A
+RNZ
+LDA     B,D16	$2067
+MOV     H,A
+LDA     B,D16	$2006
+MVI     B,D8	$02
+INR     A
+CPI     B,D8	$37
+CZ      B,D16	$01A1
+MOV     L,A
+MOV     B,M
+DCR     B
+JNZ     B,D16	$0154
+STA     B,D16	$2006
+CALL    B,D16	$017A
+MOV     H,C
+SHLD    B,D16	$200B
+MOV     A,L
+CPI     B,D8	$28
+JC      B,D16	$1971
+MOV     A,D
+STA     B,D16	$2004
+MVI     B,D8	$01
+STA     B,D16	$2000
+RET
+MVI     B,D8	$00
+MOV     A,L
+LXI     B,D16	$2009
+MOV     B,M
+INX     H
+MOV     C,M
+CPI     B,D8	$0B
+JM      B,D16	$0194
+SBI     B,D8	$0B
+MOV     E,A
+MOV     A,B
+ADI     B,D8	$10
+MOV     B,A
+MOV     A,E
+INR     D
+JMP     B,D16	$0183
+MOV     L,B
+ANA     A
+RZ
+MOV     E,A
+MOV     A,C
+ADI     B,D8	$10
+MOV     C,A
+MOV     A,E
+DCR     A
+JMP     B,D16	$0195
+DCR     D
+JZ      B,D16	$01CD
+LXI     B,D16	$2006
+MVI     B,D8	$00
+INX     H
+MOV     C,M
+MVI     B,D8	$00
+CALL    B,D16	$01D9
+LXI     B,D16	$2005
+MOV     A,M
+INR     A
+ANI     B,D8	$01
+MOV     M,A
+XRA     A
+LXI     B,D16	$2067
+MOV     H,M
+RET
+NOP
+LXI     B,D16	$2100
+MVI     B,D8	$37
+MVI     B,D8	$01
+INX     H
+DCR     B
+JNZ     B,D16	$01C5
+RET
+POP     H
+RET
+MVI     B,D8	$01
+MVI     B,D8	$E0
+LXI     B,D16	$2402
+JMP     B,D16	$14CC
+INX     H
+MOV     B,M
+INX     H
+MOV     A,C
+ADD     M
+MOV     M,A
+INX     H
+MOV     A,B
+ADD     M
+MOV     M,A
+RET
+MVI     B,D8	$C0
+LXI     B,D16	$1B00
+LXI     B,D16	$2000
+JMP     B,D16	$1A32
+LXI     B,D16	$2142
+JMP     B,D16	$01F8
+LXI     B,D16	$2242
+MVI     B,D8	$04
+LXI     B,D16	$1D20
+PUSH    D
+MVI     B,D8	$2C
+CALL    B,D16	$1A32
+POP     D
+DCR     C
+JNZ     B,D16	$01FD
+RET
+MVI     B,D8	$01
+JMP     B,D16	$021B
+MVI     B,D8	$01
+JMP     B,D16	$0214
+XRA     A
+LXI     B,D16	$2242
+JMP     B,D16	$021E
+XRA     A
+LXI     B,D16	$2142
+STA     B,D16	$2081
+LXI     B,D16	$1602
+LXI     B,D16	$2806
+MVI     B,D8	$04
+PUSH    PSW
+PUSH    B
+LDA     B,D16	$2081
+ANA     A
+JNZ     B,D16	$0242
+CALL    B,D16	$1A69
+POP     B
+POP     PSW
+DCR     A
+RZ
+PUSH    D
+LXI     B,D16	$02E0
+DAD     D
+POP     D
+JMP     B,D16	$0229
+CALL    B,D16	$147C
+JMP     B,D16	$0235
+LXI     B,D16	$2010
+MOV     A,M
+CPI     B,D8	$FF
+RZ
+CPI     B,D8	$FE
+JZ      B,D16	$0281
+INX     H
+MOV     B,M
+MOV     C,A
+ORA     B
+MOV     A,C
+JNZ     B,D16	$0277
+INX     H
+MOV     A,M
+ANA     A
+JNZ     B,D16	$0288
+INX     H
+MOV     E,M
+INX     H
+MOV     D,M
+PUSH    H
+XCHG
+PUSH    H
+LXI     B,D16	$026F
+XTHL
+PUSH    D
+PCHL
+POP     H
+LXI     B,D16	$000C
+DAD     D
+JMP     B,D16	$024B
+DCR     B
+INR     B
+JNZ     B,D16	$027D
+DCR     A
+DCR     B
+MOV     M,B
+DCX     H
+MOV     M,A
+LXI     B,D16	$0010
+DAD     D
+JMP     B,D16	$024B
+DCR     M
+DCX     H
+DCX     H
+JMP     B,D16	$0281
+POP     H
+INX     H
+MOV     A,M
+CPI     B,D8	$FF
+JZ      B,D16	$033B
+INX     H
+DCR     M
+RNZ
+MOV     B,A
+XRA     A
+STA     B,D16	$2068
+STA     B,D16	$2069
+MVI     B,D8	$30
+STA     B,D16	$206A
+MOV     A,B
+MVI     B,D8	$05
+INX     H
+DCR     M
+JNZ     B,D16	$039B
+LHLD    B,D16	$201A
+MVI     B,D8	$10
+CALL    B,D16	$1424
+LXI     B,D16	$2010
+LXI     B,D16	$1B10
+MVI     B,D8	$10
+CALL    B,D16	$1A32
+MVI     B,D8	$00
+CALL    B,D16	$19DC
+LDA     B,D16	$206D
+ANA     A
+RNZ
+LDA     B,D16	$20EF
+ANA     A
+RZ
+LXI     B,D16	$2400
+EI
+CALL    B,D16	$19D7
+CALL    B,D16	$092E
+ANA     A
+JZ      B,D16	$166D
+CALL    B,D16	$18E7
+MOV     A,M
+ANA     A
+JZ      B,D16	$032C
+LDA     B,D16	$20CE
+ANA     A
+JZ      B,D16	$032C
+LDA     B,D16	$2067
+PUSH    PSW
+RRC
+JC      B,D16	$0332
+CALL    B,D16	$020E
+CALL    B,D16	$0878
+MOV     M,E
+INX     H
+MOV     M,D
+DCX     H
+DCX     H
+MOV     M,B
+NOP
+CALL    B,D16	$01E4
+POP     PSW
+RRC
+MVI     B,D8	$21
+MVI     B,D8	$00
+JNC     B,D16	$0312
+MVI     B,D8	$20
+MVI     B,D8	$22
+STA     B,D16	$2067
+CALL    B,D16	$0AB6
+XRA     A
+STA     B,D16	$2011
+MOV     A,B
+OUT     B,D8	$05
+INR     A
+STA     B,D16	$2098
+CALL    B,D16	$09D6
+CALL    B,D16	$1A7F
+JMP     B,D16	$07F9
+CALL    B,D16	$1A7F
+JMP     B,D16	$0817
+CALL    B,D16	$0209
+JMP     B,D16	$02F8
+NOP
+NOP
+NOP
+LXI     B,D16	$2068
+MVI     B,D8	$01
+INX     H
+MOV     A,M
+ANA     A
+JMP     B,D16	$03B0
+NOP
+DCX     H
+MVI     B,D8	$01
+LDA     B,D16	$201B
+MOV     B,A
+LDA     B,D16	$20EF
+ANA     A
+JNZ     B,D16	$0363
+LDA     B,D16	$201D
+RRC
+JC      B,D16	$0381
+RRC
+JC      B,D16	$038E
+JMP     B,D16	$036F
+CALL    B,D16	$17C0
+RLC
+RLC
+JC      B,D16	$0381
+RLC
+JC      B,D16	$038E
+LXI     B,D16	$2018
+CALL    B,D16	$1A3B
+CALL    B,D16	$1A47
+CALL    B,D16	$1439
+MVI     B,D8	$00
+STA     B,D16	$2012
+RET
+MOV     A,B
+CPI     B,D8	$D9
+JZ      B,D16	$036F
+INR     A
+STA     B,D16	$201B
+JMP     B,D16	$036F
+MOV     A,B
+CPI     B,D8	$30
+JZ      B,D16	$036F
+DCR     A
+STA     B,D16	$201B
+JMP     B,D16	$036F
+INR     A
+ANI     B,D8	$01
+STA     B,D16	$2015
+RLC
+RLC
+RLC
+RLC
+LXI     B,D16	$1C70
+ADD     L
+MOV     L,A
+SHLD    B,D16	$2018
+JMP     B,D16	$036F
+JNZ     B,D16	$034A
+INX     H
+DCR     M
+JNZ     B,D16	$034A
+JMP     B,D16	$0346
+LXI     B,D16	$202A
+CALL    B,D16	$1A06
+POP     H
+RNC
+INX     H
+MOV     A,M
+ANA     A
+RZ
+CPI     B,D8	$01
+JZ      B,D16	$03FA
+CPI     B,D8	$02
+JZ      B,D16	$040A
+INX     H
+CPI     B,D8	$03
+JNZ     B,D16	$042A
+DCR     M
+JZ      B,D16	$0436
+MOV     A,M
+CPI     B,D8	$0F
+RNZ
+PUSH    H
+CALL    B,D16	$0430
+CALL    B,D16	$1452
+POP     H
+INX     H
+INR     M
+INX     H
+INX     H
+DCR     M
+DCR     M
+INX     H
+DCR     M
+DCR     M
+DCR     M
+INX     H
+MVI     B,D8	$08
+CALL    B,D16	$0430
+JMP     B,D16	$1400
+INR     A
+MOV     M,A
+LDA     B,D16	$201B
+ADI     B,D8	$08
+STA     B,D16	$202A
+CALL    B,D16	$0430
+JMP     B,D16	$1400
+CALL    B,D16	$0430
+PUSH    D
+PUSH    H
+PUSH    B
+CALL    B,D16	$1452
+POP     B
+POP     H
+POP     D
+LDA     B,D16	$202C
+ADD     L
+MOV     L,A
+STA     B,D16	$2029
+CALL    B,D16	$1491
+LDA     B,D16	$2061
+ANA     A
+RZ
+STA     B,D16	$2002
+RET
+CPI     B,D8	$05
+RZ
+JMP     B,D16	$0436
+LXI     B,D16	$2027
+JMP     B,D16	$1A3B
+CALL    B,D16	$0430
+CALL    B,D16	$1452
+LXI     B,D16	$2025
+LXI     B,D16	$1B25
+MVI     B,D8	$07
+CALL    B,D16	$1A32
+LHLD    B,D16	$208D
+INR     L
+MOV     A,L
+CPI     B,D8	$63
+JC      B,D16	$0453
+MVI     B,D8	$54
+SHLD    B,D16	$208D
+LHLD    B,D16	$208F
+INR     L
+SHLD    B,D16	$208F
+LDA     B,D16	$2084
+ANA     A
+RNZ
+MOV     A,M
+ANI     B,D8	$01
+LXI     B,D16	$0229
+JNZ     B,D16	$046E
+LXI     B,D16	$FEE0
+LXI     B,D16	$208A
+MOV     M,C
+INX     H
+INX     H
+MOV     M,B
+RET
+POP     H
+LDA     B,D16	$1B32
+STA     B,D16	$2032
+LHLD    B,D16	$2038
+MOV     A,L
+ORA     H
+JNZ     B,D16	$048A
+DCX     H
+SHLD    B,D16	$2038
+RET
+LXI     B,D16	$2035
+MVI     B,D8	$F9
+CALL    B,D16	$0550
+LDA     B,D16	$2046
+STA     B,D16	$2070
+LDA     B,D16	$2056
+STA     B,D16	$2071
+CALL    B,D16	$0563
+LDA     B,D16	$2078
+ANA     A
+LXI     B,D16	$2035
+JNZ     B,D16	$055B
+LXI     B,D16	$1B30
+LXI     B,D16	$2030
+MVI     B,D8	$10
+JMP     B,D16	$1A32
+POP     H
+LDA     B,D16	$206E
+ANA     A
+RNZ
+LDA     B,D16	$2080
+CPI     B,D8	$01
+RNZ
+LXI     B,D16	$2045
+MVI     B,D8	$ED
+CALL    B,D16	$0550
+LDA     B,D16	$2036
+STA     B,D16	$2070
+LDA     B,D16	$2056
+STA     B,D16	$2071
+CALL    B,D16	$0563
+LDA     B,D16	$2076
+CPI     B,D8	$10
+JC      B,D16	$04E7
+LDA     B,D16	$1B48
+STA     B,D16	$2076
+LDA     B,D16	$2078
+ANA     A
+LXI     B,D16	$2045
+JNZ     B,D16	$055B
+LXI     B,D16	$1B40
+LXI     B,D16	$2040
+MVI     B,D8	$10
+CALL    B,D16	$1A32
+LDA     B,D16	$2082
+DCR     A
+JNZ     B,D16	$0508
+MVI     B,D8	$01
+STA     B,D16	$206E
+LHLD    B,D16	$2076
+JMP     B,D16	$067E
+POP     H
+LXI     B,D16	$2055
+MVI     B,D8	$DB
+CALL    B,D16	$0550
+LDA     B,D16	$2046
+STA     B,D16	$2070
+LDA     B,D16	$2036
+STA     B,D16	$2071
+CALL    B,D16	$0563
+LDA     B,D16	$2076
+CPI     B,D8	$15
+JC      B,D16	$0534
+LDA     B,D16	$1B58
+STA     B,D16	$2076
+LDA     B,D16	$2078
+ANA     A
+LXI     B,D16	$2055
+JNZ     B,D16	$055B
+LXI     B,D16	$1B50
+LXI     B,D16	$2050
+MVI     B,D8	$10
+CALL    B,D16	$1A32
+LHLD    B,D16	$2076
+SHLD    B,D16	$2058
+RET
+STA     B,D16	$207F
+LXI     B,D16	$2073
+MVI     B,D8	$0B
+JMP     B,D16	$1A32
+LXI     B,D16	$2073
+MVI     B,D8	$0B
+JMP     B,D16	$1A32
+LXI     B,D16	$2073
+MOV     A,M
+ANI     B,D8	$80
+JNZ     B,D16	$05C1
+LDA     B,D16	$20C1
+CPI     B,D8	$04
+LDA     B,D16	$2069
+JZ      B,D16	$05B7
+ANA     A
+RZ
+INX     H
+MVI     B,D8	$00
+LDA     B,D16	$2070
+ANA     A
+JZ      B,D16	$0589
+MOV     B,A
+LDA     B,D16	$20CF
+CMP     B
+RNC
+LDA     B,D16	$2071
+ANA     A
+JZ      B,D16	$0596
+MOV     B,A
+LDA     B,D16	$20CF
+CMP     B
+RNC
+INX     H
+MOV     A,M
+ANA     A
+JZ      B,D16	$061B
+LHLD    B,D16	$2076
+MOV     C,M
+INX     H
+NOP
+SHLD    B,D16	$2076
+CALL    B,D16	$062F
+RNC
+CALL    B,D16	$017A
+MOV     A,C
+ADI     B,D8	$07
+MOV     H,A
+MOV     A,L
+SUI     B,D8	$0A
+MOV     L,A
+SHLD    B,D16	$207B
+LXI     B,D16	$2073
+MOV     A,M
+ORI     B,D8	$80
+MOV     M,A
+INX     H
+INR     M
+RET
+LXI     B,D16	$207C
+CALL    B,D16	$1A06
+RNC
+INX     H
+MOV     A,M
+ANI     B,D8	$01
+JNZ     B,D16	$0644
+INX     H
+INR     M
+CALL    B,D16	$0675
+LDA     B,D16	$2079
+ADI     B,D8	$03
+LXI     B,D16	$207F
+CMP     M
+JC      B,D16	$05E2
+SUI     B,D8	$0C
+STA     B,D16	$2079
+LDA     B,D16	$207B
+MOV     B,A
+LDA     B,D16	$207E
+ADD     B
+STA     B,D16	$207B
+CALL    B,D16	$066C
+LDA     B,D16	$207B
+CPI     B,D8	$15
+JC      B,D16	$0612
+LDA     B,D16	$2061
+ANA     A
+RZ
+LDA     B,D16	$207B
+CPI     B,D8	$1E
+JC      B,D16	$0612
+CPI     B,D8	$27
+NOP
+JNC     B,D16	$0612
+SUB     A
+STA     B,D16	$2015
+LDA     B,D16	$2073
+ORI     B,D8	$01
+STA     B,D16	$2073
+RET
+LDA     B,D16	$201B
+ADI     B,D8	$08
+MOV     H,A
+CALL    B,D16	$156F
+MOV     A,C
+CPI     B,D8	$0C
+JC      B,D16	$05A5
+MVI     B,D8	$0B
+JMP     B,D16	$05A5
+DCR     C
+LDA     B,D16	$2067
+MOV     H,A
+MOV     L,C
+MVI     B,D8	$05
+MOV     A,M
+ANA     A
+STC
+RNZ
+MOV     A,L
+ADI     B,D8	$0B
+MOV     L,A
+DCR     D
+JNZ     B,D16	$0637
+RET
+LXI     B,D16	$2078
+DCR     M
+MOV     A,M
+CPI     B,D8	$03
+JNZ     B,D16	$0667
+CALL    B,D16	$0675
+LXI     B,D16	$1CDC
+SHLD    B,D16	$2079
+LXI     B,D16	$207C
+DCR     M
+DCR     M
+DCX     H
+DCR     M
+DCR     M
+MVI     B,D8	$06
+STA     B,D16	$207D
+JMP     B,D16	$066C
+ANA     A
+RNZ
+JMP     B,D16	$0675
+LXI     B,D16	$2079
+CALL    B,D16	$1A3B
+JMP     B,D16	$1491
+LXI     B,D16	$2079
+CALL    B,D16	$1A3B
+JMP     B,D16	$1452
+SHLD    B,D16	$2048
+RET
+POP     H
+LDA     B,D16	$2080
+CPI     B,D8	$02
+RNZ
+LXI     B,D16	$2083
+MOV     A,M
+ANA     A
+JZ      B,D16	$050F
+LDA     B,D16	$2056
+ANA     A
+JNZ     B,D16	$050F
+INX     H
+MOV     A,M
+ANA     A
+JNZ     B,D16	$06AB
+LDA     B,D16	$2082
+CPI     B,D8	$08
+JC      B,D16	$050F
+MVI     B,D8	$01
+CALL    B,D16	$073C
+LXI     B,D16	$208A
+CALL    B,D16	$1A06
+RNC
+LXI     B,D16	$2085
+MOV     A,M
+ANA     A
+JNZ     B,D16	$06D6
+LXI     B,D16	$208A
+MOV     A,M
+INX     H
+INX     H
+ADD     M
+STA     B,D16	$208A
+CALL    B,D16	$073C
+LXI     B,D16	$208A
+MOV     A,M
+CPI     B,D8	$28
+JC      B,D16	$06F9
+CPI     B,D8	$E1
+JNC     B,D16	$06F9
+RET
+MVI     B,D8	$FE
+CALL    B,D16	$19DC
+INX     H
+DCR     M
+MOV     A,M
+CPI     B,D8	$1F
+JZ      B,D16	$074B
+CPI     B,D8	$18
+JZ      B,D16	$070C
+ANA     A
+RNZ
+MVI     B,D8	$EF
+LXI     B,D16	$2098
+MOV     A,M
+ANA     B
+MOV     M,A
+ANI     B,D8	$20
+OUT     B,D8	$05
+NOP
+NOP
+NOP
+CALL    B,D16	$0742
+CALL    B,D16	$14CB
+LXI     B,D16	$2083
+MVI     B,D8	$0A
+CALL    B,D16	$075F
+MVI     B,D8	$FE
+JMP     B,D16	$19DC
+MVI     B,D8	$01
+STA     B,D16	$20F1
+LHLD    B,D16	$208D
+MOV     B,M
+MVI     B,D8	$04
+LXI     B,D16	$1D50
+LXI     B,D16	$1D4C
+LDAX    D
+CMP     B
+JZ      B,D16	$0728
+INX     H
+INX     D
+DCR     C
+JNZ     B,D16	$071D
+MOV     A,M
+STA     B,D16	$2087
+MVI     B,D8	$00
+MOV     L,B
+DAD     H
+DAD     H
+DAD     H
+DAD     H
+SHLD    B,D16	$20F2
+CALL    B,D16	$0742
+JMP     B,D16	$08F1
+CALL    B,D16	$0742
+JMP     B,D16	$1439
+LXI     B,D16	$2087
+CALL    B,D16	$1A3B
+JMP     B,D16	$1A47
+MVI     B,D8	$10
+LXI     B,D16	$2098
+MOV     A,M
+ORA     B
+MOV     M,A
+CALL    B,D16	$1770
+LXI     B,D16	$1D7C
+SHLD    B,D16	$2087
+JMP     B,D16	$073C
+LXI     B,D16	$1B83
+JMP     B,D16	$1A32
+MVI     B,D8	$01
+STA     B,D16	$2093
+LXI     B,D16	$2400
+EI
+CALL    B,D16	$1979
+CALL    B,D16	$09D6
+LXI     B,D16	$3013
+LXI     B,D16	$1FF3
+MVI     B,D8	$04
+CALL    B,D16	$08F3
+LDA     B,D16	$20EB
+DCR     A
+LXI     B,D16	$2810
+MVI     B,D8	$14
+JNZ     B,D16	$0857
+LXI     B,D16	$1ACF
+CALL    B,D16	$08F3
+IN      B,D8	$01
+ANI     B,D8	$04
+JZ      B,D16	$077F
+MVI     B,D8	$99
+XRA     A
+STA     B,D16	$20CE
+LDA     B,D16	$20EB
+ADD     B
+DAA
+STA     B,D16	$20EB
+CALL    B,D16	$1947
+LXI     B,D16	$0000
+SHLD    B,D16	$20F8
+SHLD    B,D16	$20FC
+CALL    B,D16	$1925
+CALL    B,D16	$192B
+CALL    B,D16	$19D7
+LXI     B,D16	$0101
+MOV     A,H
+STA     B,D16	$20EF
+SHLD    B,D16	$20E7
+SHLD    B,D16	$20E5
+CALL    B,D16	$1956
+CALL    B,D16	$01EF
+CALL    B,D16	$01F5
+CALL    B,D16	$08D1
+STA     B,D16	$21FF
+STA     B,D16	$22FF
+CALL    B,D16	$00D7
+XRA     A
+STA     B,D16	$21FE
+STA     B,D16	$22FE
+CALL    B,D16	$01C0
+CALL    B,D16	$1904
+LXI     B,D16	$3878
+SHLD    B,D16	$21FC
+SHLD    B,D16	$22FC
+CALL    B,D16	$01E4
+CALL    B,D16	$1A7F
+CALL    B,D16	$088D
+CALL    B,D16	$09D6
+NOP
