@@ -1,9 +1,9 @@
 package main
 
 import (
-	"fmt"
+	"github.com/yetibob/i80/emu/cmd"
 )
 
 func main() {
-	fmt.Println("Intel 8080 Running...")
+	cmd.Execute()
 }

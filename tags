@@ -1,0 +1,2646 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
+0	opcodes.json	/^            ""$/;"	s	array:0.flags
+0	opcodes.json	/^            ""$/;"	s	array:1.flags
+0	opcodes.json	/^            ""$/;"	s	array:10.flags
+0	opcodes.json	/^            ""$/;"	s	array:100.flags
+0	opcodes.json	/^            ""$/;"	s	array:101.flags
+0	opcodes.json	/^            ""$/;"	s	array:102.flags
+0	opcodes.json	/^            ""$/;"	s	array:103.flags
+0	opcodes.json	/^            ""$/;"	s	array:104.flags
+0	opcodes.json	/^            ""$/;"	s	array:105.flags
+0	opcodes.json	/^            ""$/;"	s	array:106.flags
+0	opcodes.json	/^            ""$/;"	s	array:107.flags
+0	opcodes.json	/^            ""$/;"	s	array:108.flags
+0	opcodes.json	/^            ""$/;"	s	array:109.flags
+0	opcodes.json	/^            ""$/;"	s	array:11.flags
+0	opcodes.json	/^            ""$/;"	s	array:110.flags
+0	opcodes.json	/^            ""$/;"	s	array:111.flags
+0	opcodes.json	/^            ""$/;"	s	array:112.flags
+0	opcodes.json	/^            ""$/;"	s	array:113.flags
+0	opcodes.json	/^            ""$/;"	s	array:114.flags
+0	opcodes.json	/^            ""$/;"	s	array:115.flags
+0	opcodes.json	/^            ""$/;"	s	array:116.flags
+0	opcodes.json	/^            ""$/;"	s	array:117.flags
+0	opcodes.json	/^            ""$/;"	s	array:118.flags
+0	opcodes.json	/^            ""$/;"	s	array:119.flags
+0	opcodes.json	/^            ""$/;"	s	array:120.flags
+0	opcodes.json	/^            ""$/;"	s	array:121.flags
+0	opcodes.json	/^            ""$/;"	s	array:122.flags
+0	opcodes.json	/^            ""$/;"	s	array:123.flags
+0	opcodes.json	/^            ""$/;"	s	array:124.flags
+0	opcodes.json	/^            ""$/;"	s	array:125.flags
+0	opcodes.json	/^            ""$/;"	s	array:126.flags
+0	opcodes.json	/^            ""$/;"	s	array:127.flags
+0	opcodes.json	/^            ""$/;"	s	array:14.flags
+0	opcodes.json	/^            ""$/;"	s	array:16.flags
+0	opcodes.json	/^            ""$/;"	s	array:17.flags
+0	opcodes.json	/^            ""$/;"	s	array:18.flags
+0	opcodes.json	/^            ""$/;"	s	array:19.flags
+0	opcodes.json	/^            ""$/;"	s	array:192.flags
+0	opcodes.json	/^            ""$/;"	s	array:193.flags
+0	opcodes.json	/^            ""$/;"	s	array:194.flags
+0	opcodes.json	/^            ""$/;"	s	array:195.flags
+0	opcodes.json	/^            ""$/;"	s	array:196.flags
+0	opcodes.json	/^            ""$/;"	s	array:197.flags
+0	opcodes.json	/^            ""$/;"	s	array:199.flags
+0	opcodes.json	/^            ""$/;"	s	array:2.flags
+0	opcodes.json	/^            ""$/;"	s	array:200.flags
+0	opcodes.json	/^            ""$/;"	s	array:201.flags
+0	opcodes.json	/^            ""$/;"	s	array:202.flags
+0	opcodes.json	/^            ""$/;"	s	array:203.flags
+0	opcodes.json	/^            ""$/;"	s	array:204.flags
+0	opcodes.json	/^            ""$/;"	s	array:205.flags
+0	opcodes.json	/^            ""$/;"	s	array:207.flags
+0	opcodes.json	/^            ""$/;"	s	array:208.flags
+0	opcodes.json	/^            ""$/;"	s	array:209.flags
+0	opcodes.json	/^            ""$/;"	s	array:210.flags
+0	opcodes.json	/^            ""$/;"	s	array:211.flags
+0	opcodes.json	/^            ""$/;"	s	array:212.flags
+0	opcodes.json	/^            ""$/;"	s	array:213.flags
+0	opcodes.json	/^            ""$/;"	s	array:215.flags
+0	opcodes.json	/^            ""$/;"	s	array:216.flags
+0	opcodes.json	/^            ""$/;"	s	array:217.flags
+0	opcodes.json	/^            ""$/;"	s	array:218.flags
+0	opcodes.json	/^            ""$/;"	s	array:219.flags
+0	opcodes.json	/^            ""$/;"	s	array:22.flags
+0	opcodes.json	/^            ""$/;"	s	array:220.flags
+0	opcodes.json	/^            ""$/;"	s	array:221.flags
+0	opcodes.json	/^            ""$/;"	s	array:223.flags
+0	opcodes.json	/^            ""$/;"	s	array:224.flags
+0	opcodes.json	/^            ""$/;"	s	array:225.flags
+0	opcodes.json	/^            ""$/;"	s	array:226.flags
+0	opcodes.json	/^            ""$/;"	s	array:227.flags
+0	opcodes.json	/^            ""$/;"	s	array:228.flags
+0	opcodes.json	/^            ""$/;"	s	array:229.flags
+0	opcodes.json	/^            ""$/;"	s	array:231.flags
+0	opcodes.json	/^            ""$/;"	s	array:232.flags
+0	opcodes.json	/^            ""$/;"	s	array:233.flags
+0	opcodes.json	/^            ""$/;"	s	array:234.flags
+0	opcodes.json	/^            ""$/;"	s	array:235.flags
+0	opcodes.json	/^            ""$/;"	s	array:236.flags
+0	opcodes.json	/^            ""$/;"	s	array:237.flags
+0	opcodes.json	/^            ""$/;"	s	array:239.flags
+0	opcodes.json	/^            ""$/;"	s	array:24.flags
+0	opcodes.json	/^            ""$/;"	s	array:240.flags
+0	opcodes.json	/^            ""$/;"	s	array:241.flags
+0	opcodes.json	/^            ""$/;"	s	array:242.flags
+0	opcodes.json	/^            ""$/;"	s	array:243.flags
+0	opcodes.json	/^            ""$/;"	s	array:244.flags
+0	opcodes.json	/^            ""$/;"	s	array:245.flags
+0	opcodes.json	/^            ""$/;"	s	array:247.flags
+0	opcodes.json	/^            ""$/;"	s	array:248.flags
+0	opcodes.json	/^            ""$/;"	s	array:249.flags
+0	opcodes.json	/^            ""$/;"	s	array:250.flags
+0	opcodes.json	/^            ""$/;"	s	array:251.flags
+0	opcodes.json	/^            ""$/;"	s	array:252.flags
+0	opcodes.json	/^            ""$/;"	s	array:253.flags
+0	opcodes.json	/^            ""$/;"	s	array:255.flags
+0	opcodes.json	/^            ""$/;"	s	array:26.flags
+0	opcodes.json	/^            ""$/;"	s	array:27.flags
+0	opcodes.json	/^            ""$/;"	s	array:3.flags
+0	opcodes.json	/^            ""$/;"	s	array:30.flags
+0	opcodes.json	/^            ""$/;"	s	array:32.flags
+0	opcodes.json	/^            ""$/;"	s	array:33.flags
+0	opcodes.json	/^            ""$/;"	s	array:34.flags
+0	opcodes.json	/^            ""$/;"	s	array:35.flags
+0	opcodes.json	/^            ""$/;"	s	array:38.flags
+0	opcodes.json	/^            ""$/;"	s	array:39.flags
+0	opcodes.json	/^            ""$/;"	s	array:40.flags
+0	opcodes.json	/^            ""$/;"	s	array:42.flags
+0	opcodes.json	/^            ""$/;"	s	array:43.flags
+0	opcodes.json	/^            ""$/;"	s	array:46.flags
+0	opcodes.json	/^            ""$/;"	s	array:47.flags
+0	opcodes.json	/^            ""$/;"	s	array:48.flags
+0	opcodes.json	/^            ""$/;"	s	array:49.flags
+0	opcodes.json	/^            ""$/;"	s	array:50.flags
+0	opcodes.json	/^            ""$/;"	s	array:51.flags
+0	opcodes.json	/^            ""$/;"	s	array:54.flags
+0	opcodes.json	/^            ""$/;"	s	array:56.flags
+0	opcodes.json	/^            ""$/;"	s	array:58.flags
+0	opcodes.json	/^            ""$/;"	s	array:59.flags
+0	opcodes.json	/^            ""$/;"	s	array:6.flags
+0	opcodes.json	/^            ""$/;"	s	array:62.flags
+0	opcodes.json	/^            ""$/;"	s	array:64.flags
+0	opcodes.json	/^            ""$/;"	s	array:65.flags
+0	opcodes.json	/^            ""$/;"	s	array:66.flags
+0	opcodes.json	/^            ""$/;"	s	array:67.flags
+0	opcodes.json	/^            ""$/;"	s	array:68.flags
+0	opcodes.json	/^            ""$/;"	s	array:69.flags
+0	opcodes.json	/^            ""$/;"	s	array:70.flags
+0	opcodes.json	/^            ""$/;"	s	array:71.flags
+0	opcodes.json	/^            ""$/;"	s	array:72.flags
+0	opcodes.json	/^            ""$/;"	s	array:73.flags
+0	opcodes.json	/^            ""$/;"	s	array:74.flags
+0	opcodes.json	/^            ""$/;"	s	array:75.flags
+0	opcodes.json	/^            ""$/;"	s	array:76.flags
+0	opcodes.json	/^            ""$/;"	s	array:77.flags
+0	opcodes.json	/^            ""$/;"	s	array:78.flags
+0	opcodes.json	/^            ""$/;"	s	array:79.flags
+0	opcodes.json	/^            ""$/;"	s	array:8.flags
+0	opcodes.json	/^            ""$/;"	s	array:80.flags
+0	opcodes.json	/^            ""$/;"	s	array:81.flags
+0	opcodes.json	/^            ""$/;"	s	array:82.flags
+0	opcodes.json	/^            ""$/;"	s	array:83.flags
+0	opcodes.json	/^            ""$/;"	s	array:84.flags
+0	opcodes.json	/^            ""$/;"	s	array:85.flags
+0	opcodes.json	/^            ""$/;"	s	array:86.flags
+0	opcodes.json	/^            ""$/;"	s	array:87.flags
+0	opcodes.json	/^            ""$/;"	s	array:88.flags
+0	opcodes.json	/^            ""$/;"	s	array:89.flags
+0	opcodes.json	/^            ""$/;"	s	array:90.flags
+0	opcodes.json	/^            ""$/;"	s	array:91.flags
+0	opcodes.json	/^            ""$/;"	s	array:92.flags
+0	opcodes.json	/^            ""$/;"	s	array:93.flags
+0	opcodes.json	/^            ""$/;"	s	array:94.flags
+0	opcodes.json	/^            ""$/;"	s	array:95.flags
+0	opcodes.json	/^            ""$/;"	s	array:96.flags
+0	opcodes.json	/^            ""$/;"	s	array:97.flags
+0	opcodes.json	/^            ""$/;"	s	array:98.flags
+0	opcodes.json	/^            ""$/;"	s	array:99.flags
+0	opcodes.json	/^            "CY"$/;"	s	array:15.flags
+0	opcodes.json	/^            "CY"$/;"	s	array:23.flags
+0	opcodes.json	/^            "CY"$/;"	s	array:25.flags
+0	opcodes.json	/^            "CY"$/;"	s	array:31.flags
+0	opcodes.json	/^            "CY"$/;"	s	array:41.flags
+0	opcodes.json	/^            "CY"$/;"	s	array:55.flags
+0	opcodes.json	/^            "CY"$/;"	s	array:57.flags
+0	opcodes.json	/^            "CY"$/;"	s	array:63.flags
+0	opcodes.json	/^            "CY"$/;"	s	array:7.flags
+0	opcodes.json	/^            "CY"$/;"	s	array:9.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:12.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:128.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:129.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:13.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:130.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:131.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:132.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:133.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:134.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:135.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:136.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:137.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:138.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:139.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:140.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:141.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:142.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:143.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:144.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:145.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:146.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:147.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:148.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:149.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:150.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:151.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:152.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:153.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:154.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:155.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:156.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:157.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:158.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:159.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:160.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:161.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:162.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:163.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:164.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:165.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:166.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:167.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:168.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:169.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:170.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:171.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:172.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:173.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:174.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:175.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:176.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:177.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:178.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:179.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:180.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:181.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:182.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:183.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:184.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:185.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:186.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:187.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:188.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:189.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:190.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:191.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:198.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:20.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:206.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:21.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:214.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:222.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:230.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:238.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:246.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:254.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:28.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:29.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:36.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:37.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:4.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:44.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:45.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:5.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:52.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:53.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:60.flags
+0	opcodes.json	/^            "Z",$/;"	s	array:61.flags
+0	opcodes.json	/^    {$/;"	o
+1	opcodes.json	/^            "S",$/;"	s	array:12.flags
+1	opcodes.json	/^            "S",$/;"	s	array:128.flags
+1	opcodes.json	/^            "S",$/;"	s	array:129.flags
+1	opcodes.json	/^            "S",$/;"	s	array:13.flags
+1	opcodes.json	/^            "S",$/;"	s	array:130.flags
+1	opcodes.json	/^            "S",$/;"	s	array:131.flags
+1	opcodes.json	/^            "S",$/;"	s	array:132.flags
+1	opcodes.json	/^            "S",$/;"	s	array:133.flags
+1	opcodes.json	/^            "S",$/;"	s	array:134.flags
+1	opcodes.json	/^            "S",$/;"	s	array:135.flags
+1	opcodes.json	/^            "S",$/;"	s	array:136.flags
+1	opcodes.json	/^            "S",$/;"	s	array:137.flags
+1	opcodes.json	/^            "S",$/;"	s	array:138.flags
+1	opcodes.json	/^            "S",$/;"	s	array:139.flags
+1	opcodes.json	/^            "S",$/;"	s	array:140.flags
+1	opcodes.json	/^            "S",$/;"	s	array:141.flags
+1	opcodes.json	/^            "S",$/;"	s	array:142.flags
+1	opcodes.json	/^            "S",$/;"	s	array:143.flags
+1	opcodes.json	/^            "S",$/;"	s	array:144.flags
+1	opcodes.json	/^            "S",$/;"	s	array:145.flags
+1	opcodes.json	/^            "S",$/;"	s	array:146.flags
+1	opcodes.json	/^            "S",$/;"	s	array:147.flags
+1	opcodes.json	/^            "S",$/;"	s	array:148.flags
+1	opcodes.json	/^            "S",$/;"	s	array:149.flags
+1	opcodes.json	/^            "S",$/;"	s	array:150.flags
+1	opcodes.json	/^            "S",$/;"	s	array:151.flags
+1	opcodes.json	/^            "S",$/;"	s	array:152.flags
+1	opcodes.json	/^            "S",$/;"	s	array:153.flags
+1	opcodes.json	/^            "S",$/;"	s	array:154.flags
+1	opcodes.json	/^            "S",$/;"	s	array:155.flags
+1	opcodes.json	/^            "S",$/;"	s	array:156.flags
+1	opcodes.json	/^            "S",$/;"	s	array:157.flags
+1	opcodes.json	/^            "S",$/;"	s	array:158.flags
+1	opcodes.json	/^            "S",$/;"	s	array:159.flags
+1	opcodes.json	/^            "S",$/;"	s	array:160.flags
+1	opcodes.json	/^            "S",$/;"	s	array:161.flags
+1	opcodes.json	/^            "S",$/;"	s	array:162.flags
+1	opcodes.json	/^            "S",$/;"	s	array:163.flags
+1	opcodes.json	/^            "S",$/;"	s	array:164.flags
+1	opcodes.json	/^            "S",$/;"	s	array:165.flags
+1	opcodes.json	/^            "S",$/;"	s	array:166.flags
+1	opcodes.json	/^            "S",$/;"	s	array:167.flags
+1	opcodes.json	/^            "S",$/;"	s	array:168.flags
+1	opcodes.json	/^            "S",$/;"	s	array:169.flags
+1	opcodes.json	/^            "S",$/;"	s	array:170.flags
+1	opcodes.json	/^            "S",$/;"	s	array:171.flags
+1	opcodes.json	/^            "S",$/;"	s	array:172.flags
+1	opcodes.json	/^            "S",$/;"	s	array:173.flags
+1	opcodes.json	/^            "S",$/;"	s	array:174.flags
+1	opcodes.json	/^            "S",$/;"	s	array:175.flags
+1	opcodes.json	/^            "S",$/;"	s	array:176.flags
+1	opcodes.json	/^            "S",$/;"	s	array:177.flags
+1	opcodes.json	/^            "S",$/;"	s	array:178.flags
+1	opcodes.json	/^            "S",$/;"	s	array:179.flags
+1	opcodes.json	/^            "S",$/;"	s	array:180.flags
+1	opcodes.json	/^            "S",$/;"	s	array:181.flags
+1	opcodes.json	/^            "S",$/;"	s	array:182.flags
+1	opcodes.json	/^            "S",$/;"	s	array:183.flags
+1	opcodes.json	/^            "S",$/;"	s	array:184.flags
+1	opcodes.json	/^            "S",$/;"	s	array:185.flags
+1	opcodes.json	/^            "S",$/;"	s	array:186.flags
+1	opcodes.json	/^            "S",$/;"	s	array:187.flags
+1	opcodes.json	/^            "S",$/;"	s	array:188.flags
+1	opcodes.json	/^            "S",$/;"	s	array:189.flags
+1	opcodes.json	/^            "S",$/;"	s	array:190.flags
+1	opcodes.json	/^            "S",$/;"	s	array:191.flags
+1	opcodes.json	/^            "S",$/;"	s	array:198.flags
+1	opcodes.json	/^            "S",$/;"	s	array:20.flags
+1	opcodes.json	/^            "S",$/;"	s	array:206.flags
+1	opcodes.json	/^            "S",$/;"	s	array:21.flags
+1	opcodes.json	/^            "S",$/;"	s	array:214.flags
+1	opcodes.json	/^            "S",$/;"	s	array:222.flags
+1	opcodes.json	/^            "S",$/;"	s	array:230.flags
+1	opcodes.json	/^            "S",$/;"	s	array:238.flags
+1	opcodes.json	/^            "S",$/;"	s	array:246.flags
+1	opcodes.json	/^            "S",$/;"	s	array:254.flags
+1	opcodes.json	/^            "S",$/;"	s	array:28.flags
+1	opcodes.json	/^            "S",$/;"	s	array:29.flags
+1	opcodes.json	/^            "S",$/;"	s	array:36.flags
+1	opcodes.json	/^            "S",$/;"	s	array:37.flags
+1	opcodes.json	/^            "S",$/;"	s	array:4.flags
+1	opcodes.json	/^            "S",$/;"	s	array:44.flags
+1	opcodes.json	/^            "S",$/;"	s	array:45.flags
+1	opcodes.json	/^            "S",$/;"	s	array:5.flags
+1	opcodes.json	/^            "S",$/;"	s	array:52.flags
+1	opcodes.json	/^            "S",$/;"	s	array:53.flags
+1	opcodes.json	/^            "S",$/;"	s	array:60.flags
+1	opcodes.json	/^            "S",$/;"	s	array:61.flags
+1	opcodes.json	/^    {$/;"	o
+10	opcodes.json	/^    {$/;"	o
+100	opcodes.json	/^    {$/;"	o
+101	opcodes.json	/^    {$/;"	o
+102	opcodes.json	/^    {$/;"	o
+103	opcodes.json	/^    {$/;"	o
+104	opcodes.json	/^    {$/;"	o
+105	opcodes.json	/^    {$/;"	o
+106	opcodes.json	/^    {$/;"	o
+107	opcodes.json	/^    {$/;"	o
+108	opcodes.json	/^    {$/;"	o
+109	opcodes.json	/^    {$/;"	o
+11	opcodes.json	/^    {$/;"	o
+110	opcodes.json	/^    {$/;"	o
+111	opcodes.json	/^    {$/;"	o
+112	opcodes.json	/^    {$/;"	o
+113	opcodes.json	/^    {$/;"	o
+114	opcodes.json	/^    {$/;"	o
+115	opcodes.json	/^    {$/;"	o
+116	opcodes.json	/^    {$/;"	o
+117	opcodes.json	/^    {$/;"	o
+118	opcodes.json	/^    {$/;"	o
+119	opcodes.json	/^    {$/;"	o
+12	opcodes.json	/^    {$/;"	o
+120	opcodes.json	/^    {$/;"	o
+121	opcodes.json	/^    {$/;"	o
+122	opcodes.json	/^    {$/;"	o
+123	opcodes.json	/^    {$/;"	o
+124	opcodes.json	/^    {$/;"	o
+125	opcodes.json	/^    {$/;"	o
+126	opcodes.json	/^    {$/;"	o
+127	opcodes.json	/^    {$/;"	o
+128	opcodes.json	/^    {$/;"	o
+129	opcodes.json	/^    {$/;"	o
+13	opcodes.json	/^    {$/;"	o
+130	opcodes.json	/^    {$/;"	o
+131	opcodes.json	/^    {$/;"	o
+132	opcodes.json	/^    {$/;"	o
+133	opcodes.json	/^    {$/;"	o
+134	opcodes.json	/^    {$/;"	o
+135	opcodes.json	/^    {$/;"	o
+136	opcodes.json	/^    {$/;"	o
+137	opcodes.json	/^    {$/;"	o
+138	opcodes.json	/^    {$/;"	o
+139	opcodes.json	/^    {$/;"	o
+14	opcodes.json	/^    {$/;"	o
+140	opcodes.json	/^    {$/;"	o
+141	opcodes.json	/^    {$/;"	o
+142	opcodes.json	/^    {$/;"	o
+143	opcodes.json	/^    {$/;"	o
+144	opcodes.json	/^    {$/;"	o
+145	opcodes.json	/^    {$/;"	o
+146	opcodes.json	/^    {$/;"	o
+147	opcodes.json	/^    {$/;"	o
+148	opcodes.json	/^    {$/;"	o
+149	opcodes.json	/^    {$/;"	o
+15	opcodes.json	/^    {$/;"	o
+150	opcodes.json	/^    {$/;"	o
+151	opcodes.json	/^    {$/;"	o
+152	opcodes.json	/^    {$/;"	o
+153	opcodes.json	/^    {$/;"	o
+154	opcodes.json	/^    {$/;"	o
+155	opcodes.json	/^    {$/;"	o
+156	opcodes.json	/^    {$/;"	o
+157	opcodes.json	/^    {$/;"	o
+158	opcodes.json	/^    {$/;"	o
+159	opcodes.json	/^    {$/;"	o
+16	opcodes.json	/^    {$/;"	o
+160	opcodes.json	/^    {$/;"	o
+161	opcodes.json	/^    {$/;"	o
+162	opcodes.json	/^    {$/;"	o
+163	opcodes.json	/^    {$/;"	o
+164	opcodes.json	/^    {$/;"	o
+165	opcodes.json	/^    {$/;"	o
+166	opcodes.json	/^    {$/;"	o
+167	opcodes.json	/^    {$/;"	o
+168	opcodes.json	/^    {$/;"	o
+169	opcodes.json	/^    {$/;"	o
+17	opcodes.json	/^    {$/;"	o
+170	opcodes.json	/^    {$/;"	o
+171	opcodes.json	/^    {$/;"	o
+172	opcodes.json	/^    {$/;"	o
+173	opcodes.json	/^    {$/;"	o
+174	opcodes.json	/^    {$/;"	o
+175	opcodes.json	/^    {$/;"	o
+176	opcodes.json	/^    {$/;"	o
+177	opcodes.json	/^    {$/;"	o
+178	opcodes.json	/^    {$/;"	o
+179	opcodes.json	/^    {$/;"	o
+18	opcodes.json	/^    {$/;"	o
+180	opcodes.json	/^    {$/;"	o
+181	opcodes.json	/^    {$/;"	o
+182	opcodes.json	/^    {$/;"	o
+183	opcodes.json	/^    {$/;"	o
+184	opcodes.json	/^    {$/;"	o
+185	opcodes.json	/^    {$/;"	o
+186	opcodes.json	/^    {$/;"	o
+187	opcodes.json	/^    {$/;"	o
+188	opcodes.json	/^    {$/;"	o
+189	opcodes.json	/^    {$/;"	o
+19	opcodes.json	/^    {$/;"	o
+190	opcodes.json	/^    {$/;"	o
+191	opcodes.json	/^    {$/;"	o
+192	opcodes.json	/^    {$/;"	o
+193	opcodes.json	/^    {$/;"	o
+194	opcodes.json	/^    {$/;"	o
+195	opcodes.json	/^    {$/;"	o
+196	opcodes.json	/^    {$/;"	o
+197	opcodes.json	/^    {$/;"	o
+198	opcodes.json	/^    {$/;"	o
+199	opcodes.json	/^    {$/;"	o
+2	opcodes.json	/^            "P",$/;"	s	array:12.flags
+2	opcodes.json	/^            "P",$/;"	s	array:128.flags
+2	opcodes.json	/^            "P",$/;"	s	array:129.flags
+2	opcodes.json	/^            "P",$/;"	s	array:13.flags
+2	opcodes.json	/^            "P",$/;"	s	array:130.flags
+2	opcodes.json	/^            "P",$/;"	s	array:131.flags
+2	opcodes.json	/^            "P",$/;"	s	array:132.flags
+2	opcodes.json	/^            "P",$/;"	s	array:133.flags
+2	opcodes.json	/^            "P",$/;"	s	array:134.flags
+2	opcodes.json	/^            "P",$/;"	s	array:135.flags
+2	opcodes.json	/^            "P",$/;"	s	array:136.flags
+2	opcodes.json	/^            "P",$/;"	s	array:137.flags
+2	opcodes.json	/^            "P",$/;"	s	array:138.flags
+2	opcodes.json	/^            "P",$/;"	s	array:139.flags
+2	opcodes.json	/^            "P",$/;"	s	array:140.flags
+2	opcodes.json	/^            "P",$/;"	s	array:141.flags
+2	opcodes.json	/^            "P",$/;"	s	array:142.flags
+2	opcodes.json	/^            "P",$/;"	s	array:143.flags
+2	opcodes.json	/^            "P",$/;"	s	array:144.flags
+2	opcodes.json	/^            "P",$/;"	s	array:145.flags
+2	opcodes.json	/^            "P",$/;"	s	array:146.flags
+2	opcodes.json	/^            "P",$/;"	s	array:147.flags
+2	opcodes.json	/^            "P",$/;"	s	array:148.flags
+2	opcodes.json	/^            "P",$/;"	s	array:149.flags
+2	opcodes.json	/^            "P",$/;"	s	array:150.flags
+2	opcodes.json	/^            "P",$/;"	s	array:151.flags
+2	opcodes.json	/^            "P",$/;"	s	array:152.flags
+2	opcodes.json	/^            "P",$/;"	s	array:153.flags
+2	opcodes.json	/^            "P",$/;"	s	array:154.flags
+2	opcodes.json	/^            "P",$/;"	s	array:155.flags
+2	opcodes.json	/^            "P",$/;"	s	array:156.flags
+2	opcodes.json	/^            "P",$/;"	s	array:157.flags
+2	opcodes.json	/^            "P",$/;"	s	array:158.flags
+2	opcodes.json	/^            "P",$/;"	s	array:159.flags
+2	opcodes.json	/^            "P",$/;"	s	array:160.flags
+2	opcodes.json	/^            "P",$/;"	s	array:161.flags
+2	opcodes.json	/^            "P",$/;"	s	array:162.flags
+2	opcodes.json	/^            "P",$/;"	s	array:163.flags
+2	opcodes.json	/^            "P",$/;"	s	array:164.flags
+2	opcodes.json	/^            "P",$/;"	s	array:165.flags
+2	opcodes.json	/^            "P",$/;"	s	array:166.flags
+2	opcodes.json	/^            "P",$/;"	s	array:167.flags
+2	opcodes.json	/^            "P",$/;"	s	array:168.flags
+2	opcodes.json	/^            "P",$/;"	s	array:169.flags
+2	opcodes.json	/^            "P",$/;"	s	array:170.flags
+2	opcodes.json	/^            "P",$/;"	s	array:171.flags
+2	opcodes.json	/^            "P",$/;"	s	array:172.flags
+2	opcodes.json	/^            "P",$/;"	s	array:173.flags
+2	opcodes.json	/^            "P",$/;"	s	array:174.flags
+2	opcodes.json	/^            "P",$/;"	s	array:175.flags
+2	opcodes.json	/^            "P",$/;"	s	array:176.flags
+2	opcodes.json	/^            "P",$/;"	s	array:177.flags
+2	opcodes.json	/^            "P",$/;"	s	array:178.flags
+2	opcodes.json	/^            "P",$/;"	s	array:179.flags
+2	opcodes.json	/^            "P",$/;"	s	array:180.flags
+2	opcodes.json	/^            "P",$/;"	s	array:181.flags
+2	opcodes.json	/^            "P",$/;"	s	array:182.flags
+2	opcodes.json	/^            "P",$/;"	s	array:183.flags
+2	opcodes.json	/^            "P",$/;"	s	array:184.flags
+2	opcodes.json	/^            "P",$/;"	s	array:185.flags
+2	opcodes.json	/^            "P",$/;"	s	array:186.flags
+2	opcodes.json	/^            "P",$/;"	s	array:187.flags
+2	opcodes.json	/^            "P",$/;"	s	array:188.flags
+2	opcodes.json	/^            "P",$/;"	s	array:189.flags
+2	opcodes.json	/^            "P",$/;"	s	array:190.flags
+2	opcodes.json	/^            "P",$/;"	s	array:191.flags
+2	opcodes.json	/^            "P",$/;"	s	array:198.flags
+2	opcodes.json	/^            "P",$/;"	s	array:20.flags
+2	opcodes.json	/^            "P",$/;"	s	array:206.flags
+2	opcodes.json	/^            "P",$/;"	s	array:21.flags
+2	opcodes.json	/^            "P",$/;"	s	array:214.flags
+2	opcodes.json	/^            "P",$/;"	s	array:222.flags
+2	opcodes.json	/^            "P",$/;"	s	array:230.flags
+2	opcodes.json	/^            "P",$/;"	s	array:238.flags
+2	opcodes.json	/^            "P",$/;"	s	array:246.flags
+2	opcodes.json	/^            "P",$/;"	s	array:254.flags
+2	opcodes.json	/^            "P",$/;"	s	array:28.flags
+2	opcodes.json	/^            "P",$/;"	s	array:29.flags
+2	opcodes.json	/^            "P",$/;"	s	array:36.flags
+2	opcodes.json	/^            "P",$/;"	s	array:37.flags
+2	opcodes.json	/^            "P",$/;"	s	array:4.flags
+2	opcodes.json	/^            "P",$/;"	s	array:44.flags
+2	opcodes.json	/^            "P",$/;"	s	array:45.flags
+2	opcodes.json	/^            "P",$/;"	s	array:5.flags
+2	opcodes.json	/^            "P",$/;"	s	array:52.flags
+2	opcodes.json	/^            "P",$/;"	s	array:53.flags
+2	opcodes.json	/^            "P",$/;"	s	array:60.flags
+2	opcodes.json	/^            "P",$/;"	s	array:61.flags
+2	opcodes.json	/^    {$/;"	o
+20	opcodes.json	/^    {$/;"	o
+200	opcodes.json	/^    {$/;"	o
+201	opcodes.json	/^    {$/;"	o
+202	opcodes.json	/^    {$/;"	o
+203	opcodes.json	/^    {$/;"	o
+204	opcodes.json	/^    {$/;"	o
+205	opcodes.json	/^    {$/;"	o
+206	opcodes.json	/^    {$/;"	o
+207	opcodes.json	/^    {$/;"	o
+208	opcodes.json	/^    {$/;"	o
+209	opcodes.json	/^    {$/;"	o
+21	opcodes.json	/^    {$/;"	o
+210	opcodes.json	/^    {$/;"	o
+211	opcodes.json	/^    {$/;"	o
+212	opcodes.json	/^    {$/;"	o
+213	opcodes.json	/^    {$/;"	o
+214	opcodes.json	/^    {$/;"	o
+215	opcodes.json	/^    {$/;"	o
+216	opcodes.json	/^    {$/;"	o
+217	opcodes.json	/^    {$/;"	o
+218	opcodes.json	/^    {$/;"	o
+219	opcodes.json	/^    {$/;"	o
+22	opcodes.json	/^    {$/;"	o
+220	opcodes.json	/^    {$/;"	o
+221	opcodes.json	/^    {$/;"	o
+222	opcodes.json	/^    {$/;"	o
+223	opcodes.json	/^    {$/;"	o
+224	opcodes.json	/^    {$/;"	o
+225	opcodes.json	/^    {$/;"	o
+226	opcodes.json	/^    {$/;"	o
+227	opcodes.json	/^    {$/;"	o
+228	opcodes.json	/^    {$/;"	o
+229	opcodes.json	/^    {$/;"	o
+23	opcodes.json	/^    {$/;"	o
+230	opcodes.json	/^    {$/;"	o
+231	opcodes.json	/^    {$/;"	o
+232	opcodes.json	/^    {$/;"	o
+233	opcodes.json	/^    {$/;"	o
+234	opcodes.json	/^    {$/;"	o
+235	opcodes.json	/^    {$/;"	o
+236	opcodes.json	/^    {$/;"	o
+237	opcodes.json	/^    {$/;"	o
+238	opcodes.json	/^    {$/;"	o
+239	opcodes.json	/^    {$/;"	o
+24	opcodes.json	/^    {$/;"	o
+240	opcodes.json	/^    {$/;"	o
+241	opcodes.json	/^    {$/;"	o
+242	opcodes.json	/^    {$/;"	o
+243	opcodes.json	/^    {$/;"	o
+244	opcodes.json	/^    {$/;"	o
+245	opcodes.json	/^    {$/;"	o
+246	opcodes.json	/^    {$/;"	o
+247	opcodes.json	/^    {$/;"	o
+248	opcodes.json	/^    {$/;"	o
+249	opcodes.json	/^    {$/;"	o
+25	opcodes.json	/^    {$/;"	o
+250	opcodes.json	/^    {$/;"	o
+251	opcodes.json	/^    {$/;"	o
+252	opcodes.json	/^    {$/;"	o
+253	opcodes.json	/^    {$/;"	o
+254	opcodes.json	/^    {$/;"	o
+255	opcodes.json	/^    {$/;"	o
+26	opcodes.json	/^    {$/;"	o
+27	opcodes.json	/^    {$/;"	o
+28	opcodes.json	/^    {$/;"	o
+29	opcodes.json	/^    {$/;"	o
+3	opcodes.json	/^            "AC"$/;"	s	array:12.flags
+3	opcodes.json	/^            "AC"$/;"	s	array:13.flags
+3	opcodes.json	/^            "AC"$/;"	s	array:20.flags
+3	opcodes.json	/^            "AC"$/;"	s	array:21.flags
+3	opcodes.json	/^            "AC"$/;"	s	array:28.flags
+3	opcodes.json	/^            "AC"$/;"	s	array:29.flags
+3	opcodes.json	/^            "AC"$/;"	s	array:36.flags
+3	opcodes.json	/^            "AC"$/;"	s	array:37.flags
+3	opcodes.json	/^            "AC"$/;"	s	array:4.flags
+3	opcodes.json	/^            "AC"$/;"	s	array:44.flags
+3	opcodes.json	/^            "AC"$/;"	s	array:45.flags
+3	opcodes.json	/^            "AC"$/;"	s	array:5.flags
+3	opcodes.json	/^            "AC"$/;"	s	array:52.flags
+3	opcodes.json	/^            "AC"$/;"	s	array:53.flags
+3	opcodes.json	/^            "AC"$/;"	s	array:60.flags
+3	opcodes.json	/^            "AC"$/;"	s	array:61.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:128.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:129.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:130.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:131.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:132.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:133.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:134.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:135.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:136.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:137.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:138.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:139.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:140.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:141.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:142.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:143.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:144.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:145.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:146.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:147.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:148.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:149.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:150.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:151.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:152.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:153.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:154.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:155.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:156.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:157.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:158.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:159.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:160.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:161.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:162.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:163.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:164.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:165.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:166.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:167.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:168.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:169.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:170.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:171.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:172.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:173.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:174.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:175.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:176.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:177.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:178.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:179.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:180.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:181.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:182.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:183.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:184.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:185.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:186.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:187.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:188.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:189.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:190.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:191.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:198.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:206.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:214.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:222.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:230.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:238.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:246.flags
+3	opcodes.json	/^            "CY",$/;"	s	array:254.flags
+3	opcodes.json	/^    {$/;"	o
+30	opcodes.json	/^    {$/;"	o
+31	opcodes.json	/^    {$/;"	o
+32	opcodes.json	/^    {$/;"	o
+33	opcodes.json	/^    {$/;"	o
+34	opcodes.json	/^    {$/;"	o
+35	opcodes.json	/^    {$/;"	o
+36	opcodes.json	/^    {$/;"	o
+37	opcodes.json	/^    {$/;"	o
+38	opcodes.json	/^    {$/;"	o
+39	opcodes.json	/^    {$/;"	o
+4	opcodes.json	/^            "AC"$/;"	s	array:128.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:129.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:130.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:131.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:132.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:133.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:134.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:135.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:136.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:137.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:138.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:139.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:140.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:141.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:142.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:143.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:144.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:145.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:146.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:147.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:148.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:149.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:150.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:151.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:152.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:153.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:154.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:155.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:156.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:157.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:158.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:159.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:160.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:161.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:162.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:163.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:164.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:165.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:166.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:167.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:168.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:169.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:170.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:171.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:172.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:173.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:174.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:175.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:176.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:177.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:178.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:179.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:180.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:181.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:182.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:183.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:184.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:185.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:186.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:187.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:188.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:189.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:190.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:191.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:198.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:206.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:214.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:222.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:230.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:238.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:246.flags
+4	opcodes.json	/^            "AC"$/;"	s	array:254.flags
+4	opcodes.json	/^    {$/;"	o
+40	opcodes.json	/^    {$/;"	o
+41	opcodes.json	/^    {$/;"	o
+42	opcodes.json	/^    {$/;"	o
+43	opcodes.json	/^    {$/;"	o
+44	opcodes.json	/^    {$/;"	o
+45	opcodes.json	/^    {$/;"	o
+46	opcodes.json	/^    {$/;"	o
+47	opcodes.json	/^    {$/;"	o
+48	opcodes.json	/^    {$/;"	o
+49	opcodes.json	/^    {$/;"	o
+5	opcodes.json	/^    {$/;"	o
+50	opcodes.json	/^    {$/;"	o
+51	opcodes.json	/^    {$/;"	o
+52	opcodes.json	/^    {$/;"	o
+53	opcodes.json	/^    {$/;"	o
+54	opcodes.json	/^    {$/;"	o
+55	opcodes.json	/^    {$/;"	o
+56	opcodes.json	/^    {$/;"	o
+57	opcodes.json	/^    {$/;"	o
+58	opcodes.json	/^    {$/;"	o
+59	opcodes.json	/^    {$/;"	o
+6	opcodes.json	/^    {$/;"	o
+60	opcodes.json	/^    {$/;"	o
+61	opcodes.json	/^    {$/;"	o
+62	opcodes.json	/^    {$/;"	o
+63	opcodes.json	/^    {$/;"	o
+64	opcodes.json	/^    {$/;"	o
+65	opcodes.json	/^    {$/;"	o
+66	opcodes.json	/^    {$/;"	o
+67	opcodes.json	/^    {$/;"	o
+68	opcodes.json	/^    {$/;"	o
+69	opcodes.json	/^    {$/;"	o
+7	opcodes.json	/^    {$/;"	o
+70	opcodes.json	/^    {$/;"	o
+71	opcodes.json	/^    {$/;"	o
+72	opcodes.json	/^    {$/;"	o
+73	opcodes.json	/^    {$/;"	o
+74	opcodes.json	/^    {$/;"	o
+75	opcodes.json	/^    {$/;"	o
+76	opcodes.json	/^    {$/;"	o
+77	opcodes.json	/^    {$/;"	o
+78	opcodes.json	/^    {$/;"	o
+79	opcodes.json	/^    {$/;"	o
+8	opcodes.json	/^    {$/;"	o
+80	opcodes.json	/^    {$/;"	o
+81	opcodes.json	/^    {$/;"	o
+82	opcodes.json	/^    {$/;"	o
+83	opcodes.json	/^    {$/;"	o
+84	opcodes.json	/^    {$/;"	o
+85	opcodes.json	/^    {$/;"	o
+86	opcodes.json	/^    {$/;"	o
+87	opcodes.json	/^    {$/;"	o
+88	opcodes.json	/^    {$/;"	o
+89	opcodes.json	/^    {$/;"	o
+9	opcodes.json	/^    {$/;"	o
+90	opcodes.json	/^    {$/;"	o
+91	opcodes.json	/^    {$/;"	o
+92	opcodes.json	/^    {$/;"	o
+93	opcodes.json	/^    {$/;"	o
+94	opcodes.json	/^    {$/;"	o
+95	opcodes.json	/^    {$/;"	o
+96	opcodes.json	/^    {$/;"	o
+97	opcodes.json	/^    {$/;"	o
+98	opcodes.json	/^    {$/;"	o
+99	opcodes.json	/^    {$/;"	o
+ADD	regen/asm/invaders.asm	/^ADD     B$/;"	l
+ADD	regen/asm/invaders.asm	/^ADD     L$/;"	l
+ADD	regen/asm/invaders.asm	/^ADD     M$/;"	l
+ADI	regen/asm/invaders.asm	/^ADI     B,D8	$01$/;"	l
+ADI	regen/asm/invaders.asm	/^ADI     B,D8	$03$/;"	l
+ADI	regen/asm/invaders.asm	/^ADI     B,D8	$07$/;"	l
+ADI	regen/asm/invaders.asm	/^ADI     B,D8	$08$/;"	l
+ADI	regen/asm/invaders.asm	/^ADI     B,D8	$0B$/;"	l
+ADI	regen/asm/invaders.asm	/^ADI     B,D8	$10$/;"	l
+ANA	regen/asm/invaders.asm	/^ANA     A$/;"	l
+ANA	regen/asm/invaders.asm	/^ANA     B$/;"	l
+ANI	regen/asm/invaders.asm	/^ANI     B,D8	$01$/;"	l
+ANI	regen/asm/invaders.asm	/^ANI     B,D8	$04$/;"	l
+ANI	regen/asm/invaders.asm	/^ANI     B,D8	$20$/;"	l
+ANI	regen/asm/invaders.asm	/^ANI     B,D8	$80$/;"	l
+ANI	regen/asm/invaders.asm	/^ANI     B,D8	$FE$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$00D7$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$0100$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$0141$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$017A$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$01C0$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$01D9$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$01E4$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$01EF$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$01F5$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$0209$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$020E$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$0248$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$024B$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$0430$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$0550$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$0563$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$062F$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$066C$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$0675$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$073C$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$0742$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$075F$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$0878$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$0886$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$088D$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$08D1$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$08F3$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$0913$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$092E$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$09D6$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$0AB6$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$0ABF$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1424$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1439$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1452$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$147C$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1491$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$14CB$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$156F$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$15D3$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1740$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1770$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$17C0$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$17CD$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$18E7$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1904$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1925$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$192B$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1947$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1956$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1979$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$19D7$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$19DC$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1A06$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1A32$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1A3B$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1A47$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1A69$/;"	l
+CALL	regen/asm/invaders.asm	/^CALL    B,D16	$1A7F$/;"	l
+CMP	regen/asm/invaders.asm	/^CMP     B$/;"	l
+CMP	regen/asm/invaders.asm	/^CMP     M$/;"	l
+CNZ	regen/asm/invaders.asm	/^CNZ     B,D16	$013B$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$01$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$02$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$03$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$04$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$05$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$08$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$0B$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$0C$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$0F$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$10$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$15$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$18$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$1E$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$1F$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$27$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$28$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$30$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$37$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$63$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$99$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$D9$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$E1$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$FE$/;"	l
+CPI	regen/asm/invaders.asm	/^CPI     B,D8	$FF$/;"	l
+CZ	regen/asm/invaders.asm	/^CZ      B,D16	$01A1$/;"	l
+DAA	regen/asm/invaders.asm	/^DAA$/;"	l
+DAD	regen/asm/invaders.asm	/^DAD     D$/;"	l
+DAD	regen/asm/invaders.asm	/^DAD     H$/;"	l
+DCR	regen/asm/invaders.asm	/^DCR     A$/;"	l
+DCR	regen/asm/invaders.asm	/^DCR     B$/;"	l
+DCR	regen/asm/invaders.asm	/^DCR     C$/;"	l
+DCR	regen/asm/invaders.asm	/^DCR     D$/;"	l
+DCR	regen/asm/invaders.asm	/^DCR     M$/;"	l
+DCX	regen/asm/invaders.asm	/^DCX     H$/;"	l
+EI	regen/asm/invaders.asm	/^EI$/;"	l
+Execute	emu/cmd/root.go	/^func Execute() error {$/;"	f	package:cmd	typeref:typename:error
+Execute	regen/cmd/root.go	/^func Execute() error {$/;"	f	package:cmd	typeref:typename:error
+GOBUILD	regen/Makefile	/^GOBUILD=$(GOCMD) build$/;"	m
+GOCMD	regen/Makefile	/^GOCMD=go$/;"	m
+HandleOp	emu/op/handle.go	/^func HandleOp(buf []byte) int {$/;"	f	package:op	typeref:typename:int
+HandleOp	regen/op/handle.go	/^func HandleOp(buf []byte) int {$/;"	f	package:op	typeref:typename:int
+IN	regen/asm/invaders.asm	/^IN      B,D8	$01$/;"	l
+INR	regen/asm/invaders.asm	/^INR     A$/;"	l
+INR	regen/asm/invaders.asm	/^INR     B$/;"	l
+INR	regen/asm/invaders.asm	/^INR     D$/;"	l
+INR	regen/asm/invaders.asm	/^INR     L$/;"	l
+INR	regen/asm/invaders.asm	/^INR     M$/;"	l
+INX	regen/asm/invaders.asm	/^INX     D$/;"	l
+INX	regen/asm/invaders.asm	/^INX     H$/;"	l
+Intel 8080 Emulator	README.md	/^# Intel 8080 Emulator$/;"	c
+JC	regen/asm/invaders.asm	/^JC      B,D16	$0067$/;"	l
+JC	regen/asm/invaders.asm	/^JC      B,D16	$0332$/;"	l
+JC	regen/asm/invaders.asm	/^JC      B,D16	$0381$/;"	l
+JC	regen/asm/invaders.asm	/^JC      B,D16	$038E$/;"	l
+JC	regen/asm/invaders.asm	/^JC      B,D16	$0453$/;"	l
+JC	regen/asm/invaders.asm	/^JC      B,D16	$04E7$/;"	l
+JC	regen/asm/invaders.asm	/^JC      B,D16	$050F$/;"	l
+JC	regen/asm/invaders.asm	/^JC      B,D16	$0534$/;"	l
+JC	regen/asm/invaders.asm	/^JC      B,D16	$05A5$/;"	l
+JC	regen/asm/invaders.asm	/^JC      B,D16	$05E2$/;"	l
+JC	regen/asm/invaders.asm	/^JC      B,D16	$0612$/;"	l
+JC	regen/asm/invaders.asm	/^JC      B,D16	$06F9$/;"	l
+JC	regen/asm/invaders.asm	/^JC      B,D16	$1971$/;"	l
+JM	regen/asm/invaders.asm	/^JM      B,D16	$0194$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$003F$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$0082$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$008C$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$0183$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$0195$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$01F8$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$0214$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$021B$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$021E$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$0229$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$0235$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$024B$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$0281$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$02F8$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$0346$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$036F$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$03B0$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$0436$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$05A5$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$066C$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$0675$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$067E$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$073C$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$0765$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$07F9$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$0817$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$08E4$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$08F1$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$1400$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$1439$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$1452$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$1491$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$14CC$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$18D4$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$19DC$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$1A32$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$1A3B$/;"	l
+JMP	regen/asm/invaders.asm	/^JMP     B,D16	$1A47$/;"	l
+JNC	regen/asm/invaders.asm	/^JNC     B,D16	$0082$/;"	l
+JNC	regen/asm/invaders.asm	/^JNC     B,D16	$0312$/;"	l
+JNC	regen/asm/invaders.asm	/^JNC     B,D16	$0612$/;"	l
+JNC	regen/asm/invaders.asm	/^JNC     B,D16	$06F9$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$005D$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$006F$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$0082$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$00A5$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$00C8$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$00D3$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$0154$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$01C5$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$01FD$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$0242$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$0277$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$027D$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$0288$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$034A$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$0363$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$039B$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$042A$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$046E$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$048A$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$0508$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$050F$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$055B$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$05C1$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$0637$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$0644$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$0667$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$06AB$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$06D6$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$071D$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$0857$/;"	l
+JNZ	regen/asm/invaders.asm	/^JNZ     B,D16	$1538$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$003E$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$0042$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$0082$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$0136$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$01CD$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$0281$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$032C$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$033B$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$036F$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$03FA$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$040A$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$0436$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$050F$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$0589$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$0596$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$05B7$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$061B$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$070C$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$0728$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$074B$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$077F$/;"	l
+JZ	regen/asm/invaders.asm	/^JZ      B,D16	$166D$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$1B32$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$1B48$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$1B58$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2000$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2006$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$201B$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$201D$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$202C$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2032$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2036$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2046$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2056$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2061$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2067$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2068$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2069$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$206D$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$206E$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2070$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2071$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2073$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2076$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2078$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2079$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$207B$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$207E$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2080$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2081$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2082$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2084$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$2093$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$20C1$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$20CE$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$20CF$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$20E9$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$20EA$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$20EB$/;"	l
+LDA	regen/asm/invaders.asm	/^LDA     B,D16	$20EF$/;"	l
+LDAX	regen/asm/invaders.asm	/^LDAX    D$/;"	l
+LHLD	regen/asm/invaders.asm	/^LHLD    B,D16	$200B$/;"	l
+LHLD	regen/asm/invaders.asm	/^LHLD    B,D16	$201A$/;"	l
+LHLD	regen/asm/invaders.asm	/^LHLD    B,D16	$2038$/;"	l
+LHLD	regen/asm/invaders.asm	/^LHLD    B,D16	$2076$/;"	l
+LHLD	regen/asm/invaders.asm	/^LHLD    B,D16	$208D$/;"	l
+LHLD	regen/asm/invaders.asm	/^LHLD    B,D16	$208F$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$0000$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$000C$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$0010$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$0030$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$0101$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$0229$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$026F$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$02E0$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1602$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1ACF$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1B00$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1B10$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1B25$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1B30$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1B40$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1B50$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1B83$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1C00$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1C70$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1CDC$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1D20$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1D4C$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1D50$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1D7C$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$1FF3$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2000$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2002$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2005$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2006$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2009$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2010$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2018$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2020$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2025$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2027$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$202A$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2030$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2035$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2040$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2045$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2050$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2055$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2067$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2068$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2073$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2078$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2079$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$207C$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$207F$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2083$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2085$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2087$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$208A$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2098$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$20C0$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2100$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2142$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2242$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2400$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2402$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2806$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$2810$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$3013$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$3878$/;"	l
+LXI	regen/asm/invaders.asm	/^LXI     B,D16	$FEE0$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     A,B$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     A,C$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     A,D$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     A,E$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     A,H$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     A,L$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     A,M$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     B,A$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     B,M$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     C,A$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     C,M$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     D,M$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     E,A$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     E,M$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     H,A$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     H,C$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     H,M$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     L,A$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     L,B$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     L,C$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     M,A$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     M,B$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     M,C$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     M,D$/;"	l
+MOV	regen/asm/invaders.asm	/^MOV     M,E$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$00$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$01$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$02$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$04$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$05$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$06$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$07$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$08$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$0A$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$0B$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$10$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$14$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$20$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$21$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$22$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$2C$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$30$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$37$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$54$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$80$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$99$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$C0$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$DB$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$E0$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$ED$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$EF$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$F9$/;"	l
+MVI	regen/asm/invaders.asm	/^MVI     B,D8	$FE$/;"	l
+NOP	regen/asm/invaders.asm	/^NOP$/;"	l
+ORA	regen/asm/invaders.asm	/^ORA     B$/;"	l
+ORA	regen/asm/invaders.asm	/^ORA     H$/;"	l
+ORI	regen/asm/invaders.asm	/^ORI     B,D8	$01$/;"	l
+ORI	regen/asm/invaders.asm	/^ORI     B,D8	$80$/;"	l
+OUT	regen/asm/invaders.asm	/^OUT     B,D8	$05$/;"	l
+PCHL	regen/asm/invaders.asm	/^PCHL$/;"	l
+POP	regen/asm/invaders.asm	/^POP     B$/;"	l
+POP	regen/asm/invaders.asm	/^POP     D$/;"	l
+POP	regen/asm/invaders.asm	/^POP     H$/;"	l
+POP	regen/asm/invaders.asm	/^POP     PSW$/;"	l
+PUSH	regen/asm/invaders.asm	/^PUSH    B$/;"	l
+PUSH	regen/asm/invaders.asm	/^PUSH    D$/;"	l
+PUSH	regen/asm/invaders.asm	/^PUSH    H$/;"	l
+PUSH	regen/asm/invaders.asm	/^PUSH    PSW$/;"	l
+RET	regen/asm/invaders.asm	/^RET$/;"	l
+RLC	regen/asm/invaders.asm	/^RLC$/;"	l
+RNC	regen/asm/invaders.asm	/^RNC$/;"	l
+RNZ	regen/asm/invaders.asm	/^RNZ$/;"	l
+RRC	regen/asm/invaders.asm	/^RRC$/;"	l
+RZ	regen/asm/invaders.asm	/^RZ$/;"	l
+SBI	regen/asm/invaders.asm	/^SBI     B,D8	$0B$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$2009$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$200B$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$2018$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$2038$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$2048$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$2058$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$2076$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$2079$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$207B$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$2087$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$208D$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$208F$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$20E5$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$20E7$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$20F2$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$20F8$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$20FC$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$21FC$/;"	l
+SHLD	regen/asm/invaders.asm	/^SHLD    B,D16	$22FC$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2000$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2002$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2004$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2006$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2008$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$200D$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2011$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2012$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2015$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$201B$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2029$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$202A$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2032$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2067$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2068$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2069$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$206A$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$206E$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2070$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2071$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2072$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2073$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2076$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2079$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$207B$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$207D$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$207F$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2080$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2081$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2087$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$208A$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2093$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$2098$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$20CE$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$20EA$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$20EB$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$20EF$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$20F1$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$21FB$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$21FE$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$21FF$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$22FB$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$22FE$/;"	l
+STA	regen/asm/invaders.asm	/^STA     B,D16	$22FF$/;"	l
+STC	regen/asm/invaders.asm	/^STC$/;"	l
+SUB	regen/asm/invaders.asm	/^SUB     A$/;"	l
+SUI	regen/asm/invaders.asm	/^SUI     B,D8	$0A$/;"	l
+SUI	regen/asm/invaders.asm	/^SUI     B,D8	$0C$/;"	l
+XCHG	regen/asm/invaders.asm	/^XCHG$/;"	l
+XRA	regen/asm/invaders.asm	/^XRA     A$/;"	l
+XTHL	regen/asm/invaders.asm	/^XTHL$/;"	l
+build	regen/Makefile	/^build:$/;"	t
+cmd	emu/cmd/root.go	/^package cmd$/;"	p
+cmd	regen/cmd/root.go	/^package cmd$/;"	p
+code	opcodes.json	/^        "code": 0,$/;"	n	object:0
+code	opcodes.json	/^        "code": 1,$/;"	n	object:1
+code	opcodes.json	/^        "code": 10,$/;"	n	object:10
+code	opcodes.json	/^        "code": 100,$/;"	n	object:100
+code	opcodes.json	/^        "code": 101,$/;"	n	object:101
+code	opcodes.json	/^        "code": 102,$/;"	n	object:102
+code	opcodes.json	/^        "code": 103,$/;"	n	object:103
+code	opcodes.json	/^        "code": 104,$/;"	n	object:104
+code	opcodes.json	/^        "code": 105,$/;"	n	object:105
+code	opcodes.json	/^        "code": 106,$/;"	n	object:106
+code	opcodes.json	/^        "code": 107,$/;"	n	object:107
+code	opcodes.json	/^        "code": 108,$/;"	n	object:108
+code	opcodes.json	/^        "code": 109,$/;"	n	object:109
+code	opcodes.json	/^        "code": 11,$/;"	n	object:11
+code	opcodes.json	/^        "code": 110,$/;"	n	object:110
+code	opcodes.json	/^        "code": 111,$/;"	n	object:111
+code	opcodes.json	/^        "code": 112,$/;"	n	object:112
+code	opcodes.json	/^        "code": 113,$/;"	n	object:113
+code	opcodes.json	/^        "code": 114,$/;"	n	object:114
+code	opcodes.json	/^        "code": 115,$/;"	n	object:115
+code	opcodes.json	/^        "code": 116,$/;"	n	object:116
+code	opcodes.json	/^        "code": 117,$/;"	n	object:117
+code	opcodes.json	/^        "code": 118,$/;"	n	object:118
+code	opcodes.json	/^        "code": 119,$/;"	n	object:119
+code	opcodes.json	/^        "code": 12,$/;"	n	object:12
+code	opcodes.json	/^        "code": 120,$/;"	n	object:120
+code	opcodes.json	/^        "code": 121,$/;"	n	object:121
+code	opcodes.json	/^        "code": 122,$/;"	n	object:122
+code	opcodes.json	/^        "code": 123,$/;"	n	object:123
+code	opcodes.json	/^        "code": 124,$/;"	n	object:124
+code	opcodes.json	/^        "code": 125,$/;"	n	object:125
+code	opcodes.json	/^        "code": 126,$/;"	n	object:126
+code	opcodes.json	/^        "code": 127,$/;"	n	object:127
+code	opcodes.json	/^        "code": 128,$/;"	n	object:128
+code	opcodes.json	/^        "code": 129,$/;"	n	object:129
+code	opcodes.json	/^        "code": 13,$/;"	n	object:13
+code	opcodes.json	/^        "code": 130,$/;"	n	object:130
+code	opcodes.json	/^        "code": 131,$/;"	n	object:131
+code	opcodes.json	/^        "code": 132,$/;"	n	object:132
+code	opcodes.json	/^        "code": 133,$/;"	n	object:133
+code	opcodes.json	/^        "code": 134,$/;"	n	object:134
+code	opcodes.json	/^        "code": 135,$/;"	n	object:135
+code	opcodes.json	/^        "code": 136,$/;"	n	object:136
+code	opcodes.json	/^        "code": 137,$/;"	n	object:137
+code	opcodes.json	/^        "code": 138,$/;"	n	object:138
+code	opcodes.json	/^        "code": 139,$/;"	n	object:139
+code	opcodes.json	/^        "code": 14,$/;"	n	object:14
+code	opcodes.json	/^        "code": 140,$/;"	n	object:140
+code	opcodes.json	/^        "code": 141,$/;"	n	object:141
+code	opcodes.json	/^        "code": 142,$/;"	n	object:142
+code	opcodes.json	/^        "code": 143,$/;"	n	object:143
+code	opcodes.json	/^        "code": 144,$/;"	n	object:144
+code	opcodes.json	/^        "code": 145,$/;"	n	object:145
+code	opcodes.json	/^        "code": 146,$/;"	n	object:146
+code	opcodes.json	/^        "code": 147,$/;"	n	object:147
+code	opcodes.json	/^        "code": 148,$/;"	n	object:148
+code	opcodes.json	/^        "code": 149,$/;"	n	object:149
+code	opcodes.json	/^        "code": 15,$/;"	n	object:15
+code	opcodes.json	/^        "code": 150,$/;"	n	object:150
+code	opcodes.json	/^        "code": 151,$/;"	n	object:151
+code	opcodes.json	/^        "code": 152,$/;"	n	object:152
+code	opcodes.json	/^        "code": 153,$/;"	n	object:153
+code	opcodes.json	/^        "code": 154,$/;"	n	object:154
+code	opcodes.json	/^        "code": 155,$/;"	n	object:155
+code	opcodes.json	/^        "code": 156,$/;"	n	object:156
+code	opcodes.json	/^        "code": 157,$/;"	n	object:157
+code	opcodes.json	/^        "code": 158,$/;"	n	object:158
+code	opcodes.json	/^        "code": 159,$/;"	n	object:159
+code	opcodes.json	/^        "code": 16,$/;"	n	object:16
+code	opcodes.json	/^        "code": 160,$/;"	n	object:160
+code	opcodes.json	/^        "code": 161,$/;"	n	object:161
+code	opcodes.json	/^        "code": 162,$/;"	n	object:162
+code	opcodes.json	/^        "code": 163,$/;"	n	object:163
+code	opcodes.json	/^        "code": 164,$/;"	n	object:164
+code	opcodes.json	/^        "code": 165,$/;"	n	object:165
+code	opcodes.json	/^        "code": 166,$/;"	n	object:166
+code	opcodes.json	/^        "code": 167,$/;"	n	object:167
+code	opcodes.json	/^        "code": 168,$/;"	n	object:168
+code	opcodes.json	/^        "code": 169,$/;"	n	object:169
+code	opcodes.json	/^        "code": 17,$/;"	n	object:17
+code	opcodes.json	/^        "code": 170,$/;"	n	object:170
+code	opcodes.json	/^        "code": 171,$/;"	n	object:171
+code	opcodes.json	/^        "code": 172,$/;"	n	object:172
+code	opcodes.json	/^        "code": 173,$/;"	n	object:173
+code	opcodes.json	/^        "code": 174,$/;"	n	object:174
+code	opcodes.json	/^        "code": 175,$/;"	n	object:175
+code	opcodes.json	/^        "code": 176,$/;"	n	object:176
+code	opcodes.json	/^        "code": 177,$/;"	n	object:177
+code	opcodes.json	/^        "code": 178,$/;"	n	object:178
+code	opcodes.json	/^        "code": 179,$/;"	n	object:179
+code	opcodes.json	/^        "code": 18,$/;"	n	object:18
+code	opcodes.json	/^        "code": 180,$/;"	n	object:180
+code	opcodes.json	/^        "code": 181,$/;"	n	object:181
+code	opcodes.json	/^        "code": 182,$/;"	n	object:182
+code	opcodes.json	/^        "code": 183,$/;"	n	object:183
+code	opcodes.json	/^        "code": 184,$/;"	n	object:184
+code	opcodes.json	/^        "code": 185,$/;"	n	object:185
+code	opcodes.json	/^        "code": 186,$/;"	n	object:186
+code	opcodes.json	/^        "code": 187,$/;"	n	object:187
+code	opcodes.json	/^        "code": 188,$/;"	n	object:188
+code	opcodes.json	/^        "code": 189,$/;"	n	object:189
+code	opcodes.json	/^        "code": 19,$/;"	n	object:19
+code	opcodes.json	/^        "code": 190,$/;"	n	object:190
+code	opcodes.json	/^        "code": 191,$/;"	n	object:191
+code	opcodes.json	/^        "code": 192,$/;"	n	object:192
+code	opcodes.json	/^        "code": 193,$/;"	n	object:193
+code	opcodes.json	/^        "code": 194,$/;"	n	object:194
+code	opcodes.json	/^        "code": 195,$/;"	n	object:195
+code	opcodes.json	/^        "code": 196,$/;"	n	object:196
+code	opcodes.json	/^        "code": 197,$/;"	n	object:197
+code	opcodes.json	/^        "code": 198,$/;"	n	object:198
+code	opcodes.json	/^        "code": 199,$/;"	n	object:199
+code	opcodes.json	/^        "code": 2,$/;"	n	object:2
+code	opcodes.json	/^        "code": 20,$/;"	n	object:20
+code	opcodes.json	/^        "code": 200,$/;"	n	object:200
+code	opcodes.json	/^        "code": 201,$/;"	n	object:201
+code	opcodes.json	/^        "code": 202,$/;"	n	object:202
+code	opcodes.json	/^        "code": 203,$/;"	n	object:203
+code	opcodes.json	/^        "code": 204,$/;"	n	object:204
+code	opcodes.json	/^        "code": 205,$/;"	n	object:205
+code	opcodes.json	/^        "code": 206,$/;"	n	object:206
+code	opcodes.json	/^        "code": 207,$/;"	n	object:207
+code	opcodes.json	/^        "code": 208,$/;"	n	object:208
+code	opcodes.json	/^        "code": 209,$/;"	n	object:209
+code	opcodes.json	/^        "code": 21,$/;"	n	object:21
+code	opcodes.json	/^        "code": 210,$/;"	n	object:210
+code	opcodes.json	/^        "code": 211,$/;"	n	object:211
+code	opcodes.json	/^        "code": 212,$/;"	n	object:212
+code	opcodes.json	/^        "code": 213,$/;"	n	object:213
+code	opcodes.json	/^        "code": 214,$/;"	n	object:214
+code	opcodes.json	/^        "code": 215,$/;"	n	object:215
+code	opcodes.json	/^        "code": 216,$/;"	n	object:216
+code	opcodes.json	/^        "code": 217,$/;"	n	object:217
+code	opcodes.json	/^        "code": 218,$/;"	n	object:218
+code	opcodes.json	/^        "code": 219,$/;"	n	object:219
+code	opcodes.json	/^        "code": 22,$/;"	n	object:22
+code	opcodes.json	/^        "code": 220,$/;"	n	object:220
+code	opcodes.json	/^        "code": 221,$/;"	n	object:221
+code	opcodes.json	/^        "code": 222,$/;"	n	object:222
+code	opcodes.json	/^        "code": 223,$/;"	n	object:223
+code	opcodes.json	/^        "code": 224,$/;"	n	object:224
+code	opcodes.json	/^        "code": 225,$/;"	n	object:225
+code	opcodes.json	/^        "code": 226,$/;"	n	object:226
+code	opcodes.json	/^        "code": 227,$/;"	n	object:227
+code	opcodes.json	/^        "code": 228,$/;"	n	object:228
+code	opcodes.json	/^        "code": 229,$/;"	n	object:229
+code	opcodes.json	/^        "code": 23,$/;"	n	object:23
+code	opcodes.json	/^        "code": 230,$/;"	n	object:230
+code	opcodes.json	/^        "code": 231,$/;"	n	object:231
+code	opcodes.json	/^        "code": 232,$/;"	n	object:232
+code	opcodes.json	/^        "code": 233,$/;"	n	object:233
+code	opcodes.json	/^        "code": 234,$/;"	n	object:234
+code	opcodes.json	/^        "code": 235,$/;"	n	object:235
+code	opcodes.json	/^        "code": 236,$/;"	n	object:236
+code	opcodes.json	/^        "code": 237,$/;"	n	object:237
+code	opcodes.json	/^        "code": 238,$/;"	n	object:238
+code	opcodes.json	/^        "code": 239,$/;"	n	object:239
+code	opcodes.json	/^        "code": 24,$/;"	n	object:24
+code	opcodes.json	/^        "code": 240,$/;"	n	object:240
+code	opcodes.json	/^        "code": 241,$/;"	n	object:241
+code	opcodes.json	/^        "code": 242,$/;"	n	object:242
+code	opcodes.json	/^        "code": 243,$/;"	n	object:243
+code	opcodes.json	/^        "code": 244,$/;"	n	object:244
+code	opcodes.json	/^        "code": 245,$/;"	n	object:245
+code	opcodes.json	/^        "code": 246,$/;"	n	object:246
+code	opcodes.json	/^        "code": 247,$/;"	n	object:247
+code	opcodes.json	/^        "code": 248,$/;"	n	object:248
+code	opcodes.json	/^        "code": 249,$/;"	n	object:249
+code	opcodes.json	/^        "code": 25,$/;"	n	object:25
+code	opcodes.json	/^        "code": 250,$/;"	n	object:250
+code	opcodes.json	/^        "code": 251,$/;"	n	object:251
+code	opcodes.json	/^        "code": 252,$/;"	n	object:252
+code	opcodes.json	/^        "code": 253,$/;"	n	object:253
+code	opcodes.json	/^        "code": 254,$/;"	n	object:254
+code	opcodes.json	/^        "code": 255,$/;"	n	object:255
+code	opcodes.json	/^        "code": 26,$/;"	n	object:26
+code	opcodes.json	/^        "code": 27,$/;"	n	object:27
+code	opcodes.json	/^        "code": 28,$/;"	n	object:28
+code	opcodes.json	/^        "code": 29,$/;"	n	object:29
+code	opcodes.json	/^        "code": 3,$/;"	n	object:3
+code	opcodes.json	/^        "code": 30,$/;"	n	object:30
+code	opcodes.json	/^        "code": 31,$/;"	n	object:31
+code	opcodes.json	/^        "code": 32,$/;"	n	object:32
+code	opcodes.json	/^        "code": 33,$/;"	n	object:33
+code	opcodes.json	/^        "code": 34,$/;"	n	object:34
+code	opcodes.json	/^        "code": 35,$/;"	n	object:35
+code	opcodes.json	/^        "code": 36,$/;"	n	object:36
+code	opcodes.json	/^        "code": 37,$/;"	n	object:37
+code	opcodes.json	/^        "code": 38,$/;"	n	object:38
+code	opcodes.json	/^        "code": 39,$/;"	n	object:39
+code	opcodes.json	/^        "code": 4,$/;"	n	object:4
+code	opcodes.json	/^        "code": 40,$/;"	n	object:40
+code	opcodes.json	/^        "code": 41,$/;"	n	object:41
+code	opcodes.json	/^        "code": 42,$/;"	n	object:42
+code	opcodes.json	/^        "code": 43,$/;"	n	object:43
+code	opcodes.json	/^        "code": 44,$/;"	n	object:44
+code	opcodes.json	/^        "code": 45,$/;"	n	object:45
+code	opcodes.json	/^        "code": 46,$/;"	n	object:46
+code	opcodes.json	/^        "code": 47,$/;"	n	object:47
+code	opcodes.json	/^        "code": 48,$/;"	n	object:48
+code	opcodes.json	/^        "code": 49,$/;"	n	object:49
+code	opcodes.json	/^        "code": 5,$/;"	n	object:5
+code	opcodes.json	/^        "code": 50,$/;"	n	object:50
+code	opcodes.json	/^        "code": 51,$/;"	n	object:51
+code	opcodes.json	/^        "code": 52,$/;"	n	object:52
+code	opcodes.json	/^        "code": 53,$/;"	n	object:53
+code	opcodes.json	/^        "code": 54,$/;"	n	object:54
+code	opcodes.json	/^        "code": 55,$/;"	n	object:55
+code	opcodes.json	/^        "code": 56,$/;"	n	object:56
+code	opcodes.json	/^        "code": 57,$/;"	n	object:57
+code	opcodes.json	/^        "code": 58,$/;"	n	object:58
+code	opcodes.json	/^        "code": 59,$/;"	n	object:59
+code	opcodes.json	/^        "code": 6,$/;"	n	object:6
+code	opcodes.json	/^        "code": 60,$/;"	n	object:60
+code	opcodes.json	/^        "code": 61,$/;"	n	object:61
+code	opcodes.json	/^        "code": 62,$/;"	n	object:62
+code	opcodes.json	/^        "code": 63,$/;"	n	object:63
+code	opcodes.json	/^        "code": 64,$/;"	n	object:64
+code	opcodes.json	/^        "code": 65,$/;"	n	object:65
+code	opcodes.json	/^        "code": 66,$/;"	n	object:66
+code	opcodes.json	/^        "code": 67,$/;"	n	object:67
+code	opcodes.json	/^        "code": 68,$/;"	n	object:68
+code	opcodes.json	/^        "code": 69,$/;"	n	object:69
+code	opcodes.json	/^        "code": 7,$/;"	n	object:7
+code	opcodes.json	/^        "code": 70,$/;"	n	object:70
+code	opcodes.json	/^        "code": 71,$/;"	n	object:71
+code	opcodes.json	/^        "code": 72,$/;"	n	object:72
+code	opcodes.json	/^        "code": 73,$/;"	n	object:73
+code	opcodes.json	/^        "code": 74,$/;"	n	object:74
+code	opcodes.json	/^        "code": 75,$/;"	n	object:75
+code	opcodes.json	/^        "code": 76,$/;"	n	object:76
+code	opcodes.json	/^        "code": 77,$/;"	n	object:77
+code	opcodes.json	/^        "code": 78,$/;"	n	object:78
+code	opcodes.json	/^        "code": 79,$/;"	n	object:79
+code	opcodes.json	/^        "code": 8,$/;"	n	object:8
+code	opcodes.json	/^        "code": 80,$/;"	n	object:80
+code	opcodes.json	/^        "code": 81,$/;"	n	object:81
+code	opcodes.json	/^        "code": 82,$/;"	n	object:82
+code	opcodes.json	/^        "code": 83,$/;"	n	object:83
+code	opcodes.json	/^        "code": 84,$/;"	n	object:84
+code	opcodes.json	/^        "code": 85,$/;"	n	object:85
+code	opcodes.json	/^        "code": 86,$/;"	n	object:86
+code	opcodes.json	/^        "code": 87,$/;"	n	object:87
+code	opcodes.json	/^        "code": 88,$/;"	n	object:88
+code	opcodes.json	/^        "code": 89,$/;"	n	object:89
+code	opcodes.json	/^        "code": 9,$/;"	n	object:9
+code	opcodes.json	/^        "code": 90,$/;"	n	object:90
+code	opcodes.json	/^        "code": 91,$/;"	n	object:91
+code	opcodes.json	/^        "code": 92,$/;"	n	object:92
+code	opcodes.json	/^        "code": 93,$/;"	n	object:93
+code	opcodes.json	/^        "code": 94,$/;"	n	object:94
+code	opcodes.json	/^        "code": 95,$/;"	n	object:95
+code	opcodes.json	/^        "code": 96,$/;"	n	object:96
+code	opcodes.json	/^        "code": 97,$/;"	n	object:97
+code	opcodes.json	/^        "code": 98,$/;"	n	object:98
+code	opcodes.json	/^        "code": 99,$/;"	n	object:99
+description	opcodes.json	/^        "description": "",$/;"	s	object:0
+description	opcodes.json	/^        "description": "",$/;"	s	object:16
+description	opcodes.json	/^        "description": "",$/;"	s	object:203
+description	opcodes.json	/^        "description": "",$/;"	s	object:217
+description	opcodes.json	/^        "description": "",$/;"	s	object:221
+description	opcodes.json	/^        "description": "",$/;"	s	object:237
+description	opcodes.json	/^        "description": "",$/;"	s	object:24
+description	opcodes.json	/^        "description": "",$/;"	s	object:253
+description	opcodes.json	/^        "description": "",$/;"	s	object:40
+description	opcodes.json	/^        "description": "",$/;"	s	object:56
+description	opcodes.json	/^        "description": "",$/;"	s	object:8
+description	opcodes.json	/^        "description": "(BC) <- A",$/;"	s	object:2
+description	opcodes.json	/^        "description": "(DE) <- A",$/;"	s	object:18
+description	opcodes.json	/^        "description": "(HL) <- (HL)+1",$/;"	s	object:52
+description	opcodes.json	/^        "description": "(HL) <- (HL)-1",$/;"	s	object:53
+description	opcodes.json	/^        "description": "(HL) <- B",$/;"	s	object:112
+description	opcodes.json	/^        "description": "(HL) <- C",$/;"	s	object:113
+description	opcodes.json	/^        "description": "(HL) <- C",$/;"	s	object:119
+description	opcodes.json	/^        "description": "(HL) <- D",$/;"	s	object:114
+description	opcodes.json	/^        "description": "(HL) <- E",$/;"	s	object:115
+description	opcodes.json	/^        "description": "(HL) <- H",$/;"	s	object:116
+description	opcodes.json	/^        "description": "(HL) <- L",$/;"	s	object:117
+description	opcodes.json	/^        "description": "(HL) <- byte 2",$/;"	s	object:54
+description	opcodes.json	/^        "description": "(SP-1)<-PC.hi;(SP-2)<-PC.lo;SP<-SP+2;PC=adr",$/;"	s	object:205
+description	opcodes.json	/^        "description": "(adr) <- A",$/;"	s	object:50
+description	opcodes.json	/^        "description": "(adr) <-L; (adr+1)<-H",$/;"	s	object:34
+description	opcodes.json	/^        "description": "(sp-2)<-C; (sp-1)<-B; sp <- sp - 2",$/;"	s	object:197
+description	opcodes.json	/^        "description": "(sp-2)<-E; (sp-1)<-D; sp <- sp - 2",$/;"	s	object:213
+description	opcodes.json	/^        "description": "(sp-2)<-L; (sp-1)<-H; sp <- sp - 2",$/;"	s	object:229
+description	opcodes.json	/^        "description": "(sp-2)<-flags; (sp-1)<-A; sp <- sp - 2",$/;"	s	object:245
+description	opcodes.json	/^        "description": "A - (HL)",$/;"	s	object:190
+description	opcodes.json	/^        "description": "A - A",$/;"	s	object:191
+description	opcodes.json	/^        "description": "A - B",$/;"	s	object:184
+description	opcodes.json	/^        "description": "A - C",$/;"	s	object:185
+description	opcodes.json	/^        "description": "A - D",$/;"	s	object:186
+description	opcodes.json	/^        "description": "A - E",$/;"	s	object:187
+description	opcodes.json	/^        "description": "A - H",$/;"	s	object:188
+description	opcodes.json	/^        "description": "A - L",$/;"	s	object:189
+description	opcodes.json	/^        "description": "A - data",$/;"	s	object:254
+description	opcodes.json	/^        "description": "A <- !A",$/;"	s	object:47
+description	opcodes.json	/^        "description": "A <- (BC)",$/;"	s	object:10
+description	opcodes.json	/^        "description": "A <- (DE)",$/;"	s	object:26
+description	opcodes.json	/^        "description": "A <- (HL)",$/;"	s	object:126
+description	opcodes.json	/^        "description": "A <- (adr)",$/;"	s	object:58
+description	opcodes.json	/^        "description": "A <- A & (HL)",$/;"	s	object:166
+description	opcodes.json	/^        "description": "A <- A & A",$/;"	s	object:167
+description	opcodes.json	/^        "description": "A <- A & B",$/;"	s	object:160
+description	opcodes.json	/^        "description": "A <- A & C",$/;"	s	object:161
+description	opcodes.json	/^        "description": "A <- A & D",$/;"	s	object:162
+description	opcodes.json	/^        "description": "A <- A & E",$/;"	s	object:163
+description	opcodes.json	/^        "description": "A <- A & H",$/;"	s	object:164
+description	opcodes.json	/^        "description": "A <- A & L",$/;"	s	object:165
+description	opcodes.json	/^        "description": "A <- A & data",$/;"	s	object:230
+description	opcodes.json	/^        "description": "A <- A + (HL) + CY",$/;"	s	object:142
+description	opcodes.json	/^        "description": "A <- A + (HL)",$/;"	s	object:134
+description	opcodes.json	/^        "description": "A <- A + (HL)",$/;"	s	object:150
+description	opcodes.json	/^        "description": "A <- A + A + CY",$/;"	s	object:143
+description	opcodes.json	/^        "description": "A <- A + A",$/;"	s	object:135
+description	opcodes.json	/^        "description": "A <- A + B + CY",$/;"	s	object:136
+description	opcodes.json	/^        "description": "A <- A + B",$/;"	s	object:128
+description	opcodes.json	/^        "description": "A <- A + C + CY",$/;"	s	object:137
+description	opcodes.json	/^        "description": "A <- A + C",$/;"	s	object:129
+description	opcodes.json	/^        "description": "A <- A + D + CY",$/;"	s	object:138
+description	opcodes.json	/^        "description": "A <- A + D",$/;"	s	object:130
+description	opcodes.json	/^        "description": "A <- A + D",$/;"	s	object:146
+description	opcodes.json	/^        "description": "A <- A + E + CY",$/;"	s	object:139
+description	opcodes.json	/^        "description": "A <- A + E",$/;"	s	object:131
+description	opcodes.json	/^        "description": "A <- A + H + CY",$/;"	s	object:140
+description	opcodes.json	/^        "description": "A <- A + H",$/;"	s	object:132
+description	opcodes.json	/^        "description": "A <- A + H",$/;"	s	object:148
+description	opcodes.json	/^        "description": "A <- A + L + CY",$/;"	s	object:141
+description	opcodes.json	/^        "description": "A <- A + L",$/;"	s	object:133
+description	opcodes.json	/^        "description": "A <- A + byte",$/;"	s	object:198
+description	opcodes.json	/^        "description": "A <- A + data + CY",$/;"	s	object:206
+description	opcodes.json	/^        "description": "A <- A - (HL) - CY",$/;"	s	object:158
+description	opcodes.json	/^        "description": "A <- A - A - CY",$/;"	s	object:159
+description	opcodes.json	/^        "description": "A <- A - A",$/;"	s	object:151
+description	opcodes.json	/^        "description": "A <- A - B - CY",$/;"	s	object:152
+description	opcodes.json	/^        "description": "A <- A - B",$/;"	s	object:144
+description	opcodes.json	/^        "description": "A <- A - C - CY",$/;"	s	object:153
+description	opcodes.json	/^        "description": "A <- A - C",$/;"	s	object:145
+description	opcodes.json	/^        "description": "A <- A - D - CY",$/;"	s	object:154
+description	opcodes.json	/^        "description": "A <- A - E - CY",$/;"	s	object:155
+description	opcodes.json	/^        "description": "A <- A - E",$/;"	s	object:147
+description	opcodes.json	/^        "description": "A <- A - H - CY",$/;"	s	object:156
+description	opcodes.json	/^        "description": "A <- A - L - CY",$/;"	s	object:157
+description	opcodes.json	/^        "description": "A <- A - L",$/;"	s	object:149
+description	opcodes.json	/^        "description": "A <- A - data - CY",$/;"	s	object:222
+description	opcodes.json	/^        "description": "A <- A - data",$/;"	s	object:214
+description	opcodes.json	/^        "description": "A <- A ^ (HL)",$/;"	s	object:174
+description	opcodes.json	/^        "description": "A <- A ^ A",$/;"	s	object:175
+description	opcodes.json	/^        "description": "A <- A ^ B",$/;"	s	object:168
+description	opcodes.json	/^        "description": "A <- A ^ C",$/;"	s	object:169
+description	opcodes.json	/^        "description": "A <- A ^ D",$/;"	s	object:170
+description	opcodes.json	/^        "description": "A <- A ^ E",$/;"	s	object:171
+description	opcodes.json	/^        "description": "A <- A ^ H",$/;"	s	object:172
+description	opcodes.json	/^        "description": "A <- A ^ L",$/;"	s	object:173
+description	opcodes.json	/^        "description": "A <- A ^ data",$/;"	s	object:238
+description	opcodes.json	/^        "description": "A <- A | (HL)",$/;"	s	object:182
+description	opcodes.json	/^        "description": "A <- A | A",$/;"	s	object:183
+description	opcodes.json	/^        "description": "A <- A | B",$/;"	s	object:176
+description	opcodes.json	/^        "description": "A <- A | C",$/;"	s	object:177
+description	opcodes.json	/^        "description": "A <- A | D",$/;"	s	object:178
+description	opcodes.json	/^        "description": "A <- A | E",$/;"	s	object:179
+description	opcodes.json	/^        "description": "A <- A | H",$/;"	s	object:180
+description	opcodes.json	/^        "description": "A <- A | L",$/;"	s	object:181
+description	opcodes.json	/^        "description": "A <- A | data",$/;"	s	object:246
+description	opcodes.json	/^        "description": "A <- A",$/;"	s	object:127
+description	opcodes.json	/^        "description": "A <- A+1",$/;"	s	object:60
+description	opcodes.json	/^        "description": "A <- A-1",$/;"	s	object:61
+description	opcodes.json	/^        "description": "A <- B",$/;"	s	object:120
+description	opcodes.json	/^        "description": "A <- C",$/;"	s	object:121
+description	opcodes.json	/^        "description": "A <- D",$/;"	s	object:122
+description	opcodes.json	/^        "description": "A <- E",$/;"	s	object:123
+description	opcodes.json	/^        "description": "A <- H",$/;"	s	object:124
+description	opcodes.json	/^        "description": "A <- L",$/;"	s	object:125
+description	opcodes.json	/^        "description": "A <- byte 2",$/;"	s	object:62
+description	opcodes.json	/^        "description": "A = A << 1; bit 0 = prev CY; CY = prev bit 7",$/;"	s	object:23
+description	opcodes.json	/^        "description": "A = A << 1; bit 0 = prev bit 7; CY = prev bit 7",$/;"	s	object:7
+description	opcodes.json	/^        "description": "A = A >> 1; bit 7 = prev bit 0; CY = prev bit 0",$/;"	s	object:15
+description	opcodes.json	/^        "description": "A = A >> 1; bit 7 = prev bit 7; CY = prev bit 0",$/;"	s	object:31
+description	opcodes.json	/^        "description": "B <- (HL)",$/;"	s	object:70
+description	opcodes.json	/^        "description": "B <- A",$/;"	s	object:71
+description	opcodes.json	/^        "description": "B <- B",$/;"	s	object:64
+description	opcodes.json	/^        "description": "B <- B+1",$/;"	s	object:4
+description	opcodes.json	/^        "description": "B <- B-1",$/;"	s	object:5
+description	opcodes.json	/^        "description": "B <- C",$/;"	s	object:65
+description	opcodes.json	/^        "description": "B <- D",$/;"	s	object:66
+description	opcodes.json	/^        "description": "B <- E",$/;"	s	object:67
+description	opcodes.json	/^        "description": "B <- H",$/;"	s	object:68
+description	opcodes.json	/^        "description": "B <- L",$/;"	s	object:69
+description	opcodes.json	/^        "description": "B <- byte 2",$/;"	s	object:6
+description	opcodes.json	/^        "description": "B <- byte 3, C <- byte 2",$/;"	s	object:1
+description	opcodes.json	/^        "description": "BC <- BC+1",$/;"	s	object:3
+description	opcodes.json	/^        "description": "BC = BC-1",$/;"	s	object:11
+description	opcodes.json	/^        "description": "C <- (HL)",$/;"	s	object:78
+description	opcodes.json	/^        "description": "C <- (sp); B <- (sp+1); sp <- sp+2",$/;"	s	object:193
+description	opcodes.json	/^        "description": "C <- A",$/;"	s	object:79
+description	opcodes.json	/^        "description": "C <- B",$/;"	s	object:72
+description	opcodes.json	/^        "description": "C <- C",$/;"	s	object:73
+description	opcodes.json	/^        "description": "C <- C+1",$/;"	s	object:12
+description	opcodes.json	/^        "description": "C <- D",$/;"	s	object:74
+description	opcodes.json	/^        "description": "C <- E",$/;"	s	object:75
+description	opcodes.json	/^        "description": "C <- H",$/;"	s	object:76
+description	opcodes.json	/^        "description": "C <- L",$/;"	s	object:77
+description	opcodes.json	/^        "description": "C <- byte 2",$/;"	s	object:14
+description	opcodes.json	/^        "description": "C <-C-1",$/;"	s	object:13
+description	opcodes.json	/^        "description": "CALL $0",$/;"	s	object:199
+description	opcodes.json	/^        "description": "CALL $10",$/;"	s	object:215
+description	opcodes.json	/^        "description": "CALL $18",$/;"	s	object:223
+description	opcodes.json	/^        "description": "CALL $20",$/;"	s	object:231
+description	opcodes.json	/^        "description": "CALL $28",$/;"	s	object:239
+description	opcodes.json	/^        "description": "CALL $30",$/;"	s	object:247
+description	opcodes.json	/^        "description": "CALL $38",$/;"	s	object:255
+description	opcodes.json	/^        "description": "CALL $8",$/;"	s	object:207
+description	opcodes.json	/^        "description": "CY = 1",$/;"	s	object:55
+description	opcodes.json	/^        "description": "CY=!CY",$/;"	s	object:63
+description	opcodes.json	/^        "description": "D <- (HL)",$/;"	s	object:86
+description	opcodes.json	/^        "description": "D <- A",$/;"	s	object:87
+description	opcodes.json	/^        "description": "D <- B",$/;"	s	object:80
+description	opcodes.json	/^        "description": "D <- C",$/;"	s	object:81
+description	opcodes.json	/^        "description": "D <- D",$/;"	s	object:82
+description	opcodes.json	/^        "description": "D <- D+1",$/;"	s	object:20
+description	opcodes.json	/^        "description": "D <- D-1",$/;"	s	object:21
+description	opcodes.json	/^        "description": "D <- E",$/;"	s	object:83
+description	opcodes.json	/^        "description": "D <- H",$/;"	s	object:84
+description	opcodes.json	/^        "description": "D <- L",$/;"	s	object:85
+description	opcodes.json	/^        "description": "D <- byte 2",$/;"	s	object:22
+description	opcodes.json	/^        "description": "D <- byte 3, E <- byte 2",$/;"	s	object:17
+description	opcodes.json	/^        "description": "DE <- DE + 1",$/;"	s	object:19
+description	opcodes.json	/^        "description": "DE = DE-1",$/;"	s	object:27
+description	opcodes.json	/^        "description": "E <- (HL)",$/;"	s	object:94
+description	opcodes.json	/^        "description": "E <- (sp); D <- (sp+1); sp <- sp+2",$/;"	s	object:209
+description	opcodes.json	/^        "description": "E <- A",$/;"	s	object:95
+description	opcodes.json	/^        "description": "E <- B",$/;"	s	object:88
+description	opcodes.json	/^        "description": "E <- C",$/;"	s	object:89
+description	opcodes.json	/^        "description": "E <- D",$/;"	s	object:90
+description	opcodes.json	/^        "description": "E <- E",$/;"	s	object:91
+description	opcodes.json	/^        "description": "E <- E-1",$/;"	s	object:29
+description	opcodes.json	/^        "description": "E <- H",$/;"	s	object:92
+description	opcodes.json	/^        "description": "E <- L",$/;"	s	object:93
+description	opcodes.json	/^        "description": "E <- byte 2",$/;"	s	object:30
+description	opcodes.json	/^        "description": "E <-E+1",$/;"	s	object:28
+description	opcodes.json	/^        "description": "H <- (HL)",$/;"	s	object:102
+description	opcodes.json	/^        "description": "H <- A",$/;"	s	object:103
+description	opcodes.json	/^        "description": "H <- B",$/;"	s	object:96
+description	opcodes.json	/^        "description": "H <- C",$/;"	s	object:97
+description	opcodes.json	/^        "description": "H <- D",$/;"	s	object:98
+description	opcodes.json	/^        "description": "H <- E",$/;"	s	object:99
+description	opcodes.json	/^        "description": "H <- H",$/;"	s	object:100
+description	opcodes.json	/^        "description": "H <- H+1",$/;"	s	object:36
+description	opcodes.json	/^        "description": "H <- H-1",$/;"	s	object:37
+description	opcodes.json	/^        "description": "H <- L",$/;"	s	object:101
+description	opcodes.json	/^        "description": "H <- byte 3, L <- byte 2",$/;"	s	object:33
+description	opcodes.json	/^        "description": "H <-> D; L <-> E",$/;"	s	object:235
+description	opcodes.json	/^        "description": "HL <- HL + 1",$/;"	s	object:35
+description	opcodes.json	/^        "description": "HL = HL + BC",$/;"	s	object:9
+description	opcodes.json	/^        "description": "HL = HL + DE",$/;"	s	object:25
+description	opcodes.json	/^        "description": "HL = HL + HI",$/;"	s	object:41
+description	opcodes.json	/^        "description": "HL = HL + SP",$/;"	s	object:57
+description	opcodes.json	/^        "description": "HL = HL-1",$/;"	s	object:43
+description	opcodes.json	/^        "description": "L <- (HL)",$/;"	s	object:110
+description	opcodes.json	/^        "description": "L <- (adr); H<-(adr+1)",$/;"	s	object:42
+description	opcodes.json	/^        "description": "L <- (sp); H <- (sp+1); sp <- sp+2",$/;"	s	object:225
+description	opcodes.json	/^        "description": "L <- A",$/;"	s	object:111
+description	opcodes.json	/^        "description": "L <- B",$/;"	s	object:104
+description	opcodes.json	/^        "description": "L <- C",$/;"	s	object:105
+description	opcodes.json	/^        "description": "L <- D",$/;"	s	object:106
+description	opcodes.json	/^        "description": "L <- E",$/;"	s	object:107
+description	opcodes.json	/^        "description": "L <- H",$/;"	s	object:108
+description	opcodes.json	/^        "description": "L <- L",$/;"	s	object:109
+description	opcodes.json	/^        "description": "L <- L+1",$/;"	s	object:44
+description	opcodes.json	/^        "description": "L <- L-1",$/;"	s	object:45
+description	opcodes.json	/^        "description": "L <- byte 2",$/;"	s	object:38
+description	opcodes.json	/^        "description": "L <- byte 2",$/;"	s	object:46
+description	opcodes.json	/^        "description": "L <-> (SP); H <-> (SP+1)",$/;"	s	object:227
+description	opcodes.json	/^        "description": "PC <= adr",$/;"	s	object:195
+description	opcodes.json	/^        "description": "PC.hi <- H; PC.lo <- L",$/;"	s	object:233
+description	opcodes.json	/^        "description": "PC.lo <- (sp); PC.hi<-(sp+1); SP <- SP+2",$/;"	s	object:201
+description	opcodes.json	/^        "description": "SP = SP + 1",$/;"	s	object:51
+description	opcodes.json	/^        "description": "SP = SP-1",$/;"	s	object:59
+description	opcodes.json	/^        "description": "SP.hi <- byte 3, SP.lo <- byte 2",$/;"	s	object:49
+description	opcodes.json	/^        "description": "SP=HL",$/;"	s	object:249
+description	opcodes.json	/^        "description": "flags <- (sp); A <- (sp+1); sp <- sp+2",$/;"	s	object:241
+description	opcodes.json	/^        "description": "if CY, CALL adr",$/;"	s	object:220
+description	opcodes.json	/^        "description": "if CY, PC<-adr",$/;"	s	object:218
+description	opcodes.json	/^        "description": "if CY, RET",$/;"	s	object:216
+description	opcodes.json	/^        "description": "if M, CALL adr",$/;"	s	object:252
+description	opcodes.json	/^        "description": "if M, PC <- adr",$/;"	s	object:250
+description	opcodes.json	/^        "description": "if M, RET",$/;"	s	object:248
+description	opcodes.json	/^        "description": "if NCY, CALL adr",$/;"	s	object:212
+description	opcodes.json	/^        "description": "if NCY, PC<-adr",$/;"	s	object:210
+description	opcodes.json	/^        "description": "if NCY, RET",$/;"	s	object:208
+description	opcodes.json	/^        "description": "if NZ, CALL adr",$/;"	s	object:196
+description	opcodes.json	/^        "description": "if NZ, PC <- adr",$/;"	s	object:194
+description	opcodes.json	/^        "description": "if NZ, RET",$/;"	s	object:192
+description	opcodes.json	/^        "description": "if P, PC <- adr",$/;"	s	object:244
+description	opcodes.json	/^        "description": "if P, RET",$/;"	s	object:240
+description	opcodes.json	/^        "description": "if P=1 PC <- adr",$/;"	s	object:242
+description	opcodes.json	/^        "description": "if PE, CALL adr",$/;"	s	object:236
+description	opcodes.json	/^        "description": "if PE, PC <- adr",$/;"	s	object:234
+description	opcodes.json	/^        "description": "if PE, RET",$/;"	s	object:232
+description	opcodes.json	/^        "description": "if PO, CALL adr",$/;"	s	object:228
+description	opcodes.json	/^        "description": "if PO, PC <- adr",$/;"	s	object:226
+description	opcodes.json	/^        "description": "if PO, RET",$/;"	s	object:224
+description	opcodes.json	/^        "description": "if Z, CALL adr",$/;"	s	object:204
+description	opcodes.json	/^        "description": "if Z, PC <- adr",$/;"	s	object:202
+description	opcodes.json	/^        "description": "if Z, RET",$/;"	s	object:200
+description	opcodes.json	/^        "description": "special",$/;"	s	object:118
+description	opcodes.json	/^        "description": "special",$/;"	s	object:211
+description	opcodes.json	/^        "description": "special",$/;"	s	object:219
+description	opcodes.json	/^        "description": "special",$/;"	s	object:243
+description	opcodes.json	/^        "description": "special",$/;"	s	object:251
+description	opcodes.json	/^        "description": "special",$/;"	s	object:32
+description	opcodes.json	/^        "description": "special",$/;"	s	object:39
+description	opcodes.json	/^        "description": "special",$/;"	s	object:48
+flags	opcodes.json	/^        "flags": [$/;"	a	object:0
+flags	opcodes.json	/^        "flags": [$/;"	a	object:1
+flags	opcodes.json	/^        "flags": [$/;"	a	object:10
+flags	opcodes.json	/^        "flags": [$/;"	a	object:100
+flags	opcodes.json	/^        "flags": [$/;"	a	object:101
+flags	opcodes.json	/^        "flags": [$/;"	a	object:102
+flags	opcodes.json	/^        "flags": [$/;"	a	object:103
+flags	opcodes.json	/^        "flags": [$/;"	a	object:104
+flags	opcodes.json	/^        "flags": [$/;"	a	object:105
+flags	opcodes.json	/^        "flags": [$/;"	a	object:106
+flags	opcodes.json	/^        "flags": [$/;"	a	object:107
+flags	opcodes.json	/^        "flags": [$/;"	a	object:108
+flags	opcodes.json	/^        "flags": [$/;"	a	object:109
+flags	opcodes.json	/^        "flags": [$/;"	a	object:11
+flags	opcodes.json	/^        "flags": [$/;"	a	object:110
+flags	opcodes.json	/^        "flags": [$/;"	a	object:111
+flags	opcodes.json	/^        "flags": [$/;"	a	object:112
+flags	opcodes.json	/^        "flags": [$/;"	a	object:113
+flags	opcodes.json	/^        "flags": [$/;"	a	object:114
+flags	opcodes.json	/^        "flags": [$/;"	a	object:115
+flags	opcodes.json	/^        "flags": [$/;"	a	object:116
+flags	opcodes.json	/^        "flags": [$/;"	a	object:117
+flags	opcodes.json	/^        "flags": [$/;"	a	object:118
+flags	opcodes.json	/^        "flags": [$/;"	a	object:119
+flags	opcodes.json	/^        "flags": [$/;"	a	object:12
+flags	opcodes.json	/^        "flags": [$/;"	a	object:120
+flags	opcodes.json	/^        "flags": [$/;"	a	object:121
+flags	opcodes.json	/^        "flags": [$/;"	a	object:122
+flags	opcodes.json	/^        "flags": [$/;"	a	object:123
+flags	opcodes.json	/^        "flags": [$/;"	a	object:124
+flags	opcodes.json	/^        "flags": [$/;"	a	object:125
+flags	opcodes.json	/^        "flags": [$/;"	a	object:126
+flags	opcodes.json	/^        "flags": [$/;"	a	object:127
+flags	opcodes.json	/^        "flags": [$/;"	a	object:128
+flags	opcodes.json	/^        "flags": [$/;"	a	object:129
+flags	opcodes.json	/^        "flags": [$/;"	a	object:13
+flags	opcodes.json	/^        "flags": [$/;"	a	object:130
+flags	opcodes.json	/^        "flags": [$/;"	a	object:131
+flags	opcodes.json	/^        "flags": [$/;"	a	object:132
+flags	opcodes.json	/^        "flags": [$/;"	a	object:133
+flags	opcodes.json	/^        "flags": [$/;"	a	object:134
+flags	opcodes.json	/^        "flags": [$/;"	a	object:135
+flags	opcodes.json	/^        "flags": [$/;"	a	object:136
+flags	opcodes.json	/^        "flags": [$/;"	a	object:137
+flags	opcodes.json	/^        "flags": [$/;"	a	object:138
+flags	opcodes.json	/^        "flags": [$/;"	a	object:139
+flags	opcodes.json	/^        "flags": [$/;"	a	object:14
+flags	opcodes.json	/^        "flags": [$/;"	a	object:140
+flags	opcodes.json	/^        "flags": [$/;"	a	object:141
+flags	opcodes.json	/^        "flags": [$/;"	a	object:142
+flags	opcodes.json	/^        "flags": [$/;"	a	object:143
+flags	opcodes.json	/^        "flags": [$/;"	a	object:144
+flags	opcodes.json	/^        "flags": [$/;"	a	object:145
+flags	opcodes.json	/^        "flags": [$/;"	a	object:146
+flags	opcodes.json	/^        "flags": [$/;"	a	object:147
+flags	opcodes.json	/^        "flags": [$/;"	a	object:148
+flags	opcodes.json	/^        "flags": [$/;"	a	object:149
+flags	opcodes.json	/^        "flags": [$/;"	a	object:15
+flags	opcodes.json	/^        "flags": [$/;"	a	object:150
+flags	opcodes.json	/^        "flags": [$/;"	a	object:151
+flags	opcodes.json	/^        "flags": [$/;"	a	object:152
+flags	opcodes.json	/^        "flags": [$/;"	a	object:153
+flags	opcodes.json	/^        "flags": [$/;"	a	object:154
+flags	opcodes.json	/^        "flags": [$/;"	a	object:155
+flags	opcodes.json	/^        "flags": [$/;"	a	object:156
+flags	opcodes.json	/^        "flags": [$/;"	a	object:157
+flags	opcodes.json	/^        "flags": [$/;"	a	object:158
+flags	opcodes.json	/^        "flags": [$/;"	a	object:159
+flags	opcodes.json	/^        "flags": [$/;"	a	object:16
+flags	opcodes.json	/^        "flags": [$/;"	a	object:160
+flags	opcodes.json	/^        "flags": [$/;"	a	object:161
+flags	opcodes.json	/^        "flags": [$/;"	a	object:162
+flags	opcodes.json	/^        "flags": [$/;"	a	object:163
+flags	opcodes.json	/^        "flags": [$/;"	a	object:164
+flags	opcodes.json	/^        "flags": [$/;"	a	object:165
+flags	opcodes.json	/^        "flags": [$/;"	a	object:166
+flags	opcodes.json	/^        "flags": [$/;"	a	object:167
+flags	opcodes.json	/^        "flags": [$/;"	a	object:168
+flags	opcodes.json	/^        "flags": [$/;"	a	object:169
+flags	opcodes.json	/^        "flags": [$/;"	a	object:17
+flags	opcodes.json	/^        "flags": [$/;"	a	object:170
+flags	opcodes.json	/^        "flags": [$/;"	a	object:171
+flags	opcodes.json	/^        "flags": [$/;"	a	object:172
+flags	opcodes.json	/^        "flags": [$/;"	a	object:173
+flags	opcodes.json	/^        "flags": [$/;"	a	object:174
+flags	opcodes.json	/^        "flags": [$/;"	a	object:175
+flags	opcodes.json	/^        "flags": [$/;"	a	object:176
+flags	opcodes.json	/^        "flags": [$/;"	a	object:177
+flags	opcodes.json	/^        "flags": [$/;"	a	object:178
+flags	opcodes.json	/^        "flags": [$/;"	a	object:179
+flags	opcodes.json	/^        "flags": [$/;"	a	object:18
+flags	opcodes.json	/^        "flags": [$/;"	a	object:180
+flags	opcodes.json	/^        "flags": [$/;"	a	object:181
+flags	opcodes.json	/^        "flags": [$/;"	a	object:182
+flags	opcodes.json	/^        "flags": [$/;"	a	object:183
+flags	opcodes.json	/^        "flags": [$/;"	a	object:184
+flags	opcodes.json	/^        "flags": [$/;"	a	object:185
+flags	opcodes.json	/^        "flags": [$/;"	a	object:186
+flags	opcodes.json	/^        "flags": [$/;"	a	object:187
+flags	opcodes.json	/^        "flags": [$/;"	a	object:188
+flags	opcodes.json	/^        "flags": [$/;"	a	object:189
+flags	opcodes.json	/^        "flags": [$/;"	a	object:19
+flags	opcodes.json	/^        "flags": [$/;"	a	object:190
+flags	opcodes.json	/^        "flags": [$/;"	a	object:191
+flags	opcodes.json	/^        "flags": [$/;"	a	object:192
+flags	opcodes.json	/^        "flags": [$/;"	a	object:193
+flags	opcodes.json	/^        "flags": [$/;"	a	object:194
+flags	opcodes.json	/^        "flags": [$/;"	a	object:195
+flags	opcodes.json	/^        "flags": [$/;"	a	object:196
+flags	opcodes.json	/^        "flags": [$/;"	a	object:197
+flags	opcodes.json	/^        "flags": [$/;"	a	object:198
+flags	opcodes.json	/^        "flags": [$/;"	a	object:199
+flags	opcodes.json	/^        "flags": [$/;"	a	object:2
+flags	opcodes.json	/^        "flags": [$/;"	a	object:20
+flags	opcodes.json	/^        "flags": [$/;"	a	object:200
+flags	opcodes.json	/^        "flags": [$/;"	a	object:201
+flags	opcodes.json	/^        "flags": [$/;"	a	object:202
+flags	opcodes.json	/^        "flags": [$/;"	a	object:203
+flags	opcodes.json	/^        "flags": [$/;"	a	object:204
+flags	opcodes.json	/^        "flags": [$/;"	a	object:205
+flags	opcodes.json	/^        "flags": [$/;"	a	object:206
+flags	opcodes.json	/^        "flags": [$/;"	a	object:207
+flags	opcodes.json	/^        "flags": [$/;"	a	object:208
+flags	opcodes.json	/^        "flags": [$/;"	a	object:209
+flags	opcodes.json	/^        "flags": [$/;"	a	object:21
+flags	opcodes.json	/^        "flags": [$/;"	a	object:210
+flags	opcodes.json	/^        "flags": [$/;"	a	object:211
+flags	opcodes.json	/^        "flags": [$/;"	a	object:212
+flags	opcodes.json	/^        "flags": [$/;"	a	object:213
+flags	opcodes.json	/^        "flags": [$/;"	a	object:214
+flags	opcodes.json	/^        "flags": [$/;"	a	object:215
+flags	opcodes.json	/^        "flags": [$/;"	a	object:216
+flags	opcodes.json	/^        "flags": [$/;"	a	object:217
+flags	opcodes.json	/^        "flags": [$/;"	a	object:218
+flags	opcodes.json	/^        "flags": [$/;"	a	object:219
+flags	opcodes.json	/^        "flags": [$/;"	a	object:22
+flags	opcodes.json	/^        "flags": [$/;"	a	object:220
+flags	opcodes.json	/^        "flags": [$/;"	a	object:221
+flags	opcodes.json	/^        "flags": [$/;"	a	object:222
+flags	opcodes.json	/^        "flags": [$/;"	a	object:223
+flags	opcodes.json	/^        "flags": [$/;"	a	object:224
+flags	opcodes.json	/^        "flags": [$/;"	a	object:225
+flags	opcodes.json	/^        "flags": [$/;"	a	object:226
+flags	opcodes.json	/^        "flags": [$/;"	a	object:227
+flags	opcodes.json	/^        "flags": [$/;"	a	object:228
+flags	opcodes.json	/^        "flags": [$/;"	a	object:229
+flags	opcodes.json	/^        "flags": [$/;"	a	object:23
+flags	opcodes.json	/^        "flags": [$/;"	a	object:230
+flags	opcodes.json	/^        "flags": [$/;"	a	object:231
+flags	opcodes.json	/^        "flags": [$/;"	a	object:232
+flags	opcodes.json	/^        "flags": [$/;"	a	object:233
+flags	opcodes.json	/^        "flags": [$/;"	a	object:234
+flags	opcodes.json	/^        "flags": [$/;"	a	object:235
+flags	opcodes.json	/^        "flags": [$/;"	a	object:236
+flags	opcodes.json	/^        "flags": [$/;"	a	object:237
+flags	opcodes.json	/^        "flags": [$/;"	a	object:238
+flags	opcodes.json	/^        "flags": [$/;"	a	object:239
+flags	opcodes.json	/^        "flags": [$/;"	a	object:24
+flags	opcodes.json	/^        "flags": [$/;"	a	object:240
+flags	opcodes.json	/^        "flags": [$/;"	a	object:241
+flags	opcodes.json	/^        "flags": [$/;"	a	object:242
+flags	opcodes.json	/^        "flags": [$/;"	a	object:243
+flags	opcodes.json	/^        "flags": [$/;"	a	object:244
+flags	opcodes.json	/^        "flags": [$/;"	a	object:245
+flags	opcodes.json	/^        "flags": [$/;"	a	object:246
+flags	opcodes.json	/^        "flags": [$/;"	a	object:247
+flags	opcodes.json	/^        "flags": [$/;"	a	object:248
+flags	opcodes.json	/^        "flags": [$/;"	a	object:249
+flags	opcodes.json	/^        "flags": [$/;"	a	object:25
+flags	opcodes.json	/^        "flags": [$/;"	a	object:250
+flags	opcodes.json	/^        "flags": [$/;"	a	object:251
+flags	opcodes.json	/^        "flags": [$/;"	a	object:252
+flags	opcodes.json	/^        "flags": [$/;"	a	object:253
+flags	opcodes.json	/^        "flags": [$/;"	a	object:254
+flags	opcodes.json	/^        "flags": [$/;"	a	object:255
+flags	opcodes.json	/^        "flags": [$/;"	a	object:26
+flags	opcodes.json	/^        "flags": [$/;"	a	object:27
+flags	opcodes.json	/^        "flags": [$/;"	a	object:28
+flags	opcodes.json	/^        "flags": [$/;"	a	object:29
+flags	opcodes.json	/^        "flags": [$/;"	a	object:3
+flags	opcodes.json	/^        "flags": [$/;"	a	object:30
+flags	opcodes.json	/^        "flags": [$/;"	a	object:31
+flags	opcodes.json	/^        "flags": [$/;"	a	object:32
+flags	opcodes.json	/^        "flags": [$/;"	a	object:33
+flags	opcodes.json	/^        "flags": [$/;"	a	object:34
+flags	opcodes.json	/^        "flags": [$/;"	a	object:35
+flags	opcodes.json	/^        "flags": [$/;"	a	object:36
+flags	opcodes.json	/^        "flags": [$/;"	a	object:37
+flags	opcodes.json	/^        "flags": [$/;"	a	object:38
+flags	opcodes.json	/^        "flags": [$/;"	a	object:39
+flags	opcodes.json	/^        "flags": [$/;"	a	object:4
+flags	opcodes.json	/^        "flags": [$/;"	a	object:40
+flags	opcodes.json	/^        "flags": [$/;"	a	object:41
+flags	opcodes.json	/^        "flags": [$/;"	a	object:42
+flags	opcodes.json	/^        "flags": [$/;"	a	object:43
+flags	opcodes.json	/^        "flags": [$/;"	a	object:44
+flags	opcodes.json	/^        "flags": [$/;"	a	object:45
+flags	opcodes.json	/^        "flags": [$/;"	a	object:46
+flags	opcodes.json	/^        "flags": [$/;"	a	object:47
+flags	opcodes.json	/^        "flags": [$/;"	a	object:48
+flags	opcodes.json	/^        "flags": [$/;"	a	object:49
+flags	opcodes.json	/^        "flags": [$/;"	a	object:5
+flags	opcodes.json	/^        "flags": [$/;"	a	object:50
+flags	opcodes.json	/^        "flags": [$/;"	a	object:51
+flags	opcodes.json	/^        "flags": [$/;"	a	object:52
+flags	opcodes.json	/^        "flags": [$/;"	a	object:53
+flags	opcodes.json	/^        "flags": [$/;"	a	object:54
+flags	opcodes.json	/^        "flags": [$/;"	a	object:55
+flags	opcodes.json	/^        "flags": [$/;"	a	object:56
+flags	opcodes.json	/^        "flags": [$/;"	a	object:57
+flags	opcodes.json	/^        "flags": [$/;"	a	object:58
+flags	opcodes.json	/^        "flags": [$/;"	a	object:59
+flags	opcodes.json	/^        "flags": [$/;"	a	object:6
+flags	opcodes.json	/^        "flags": [$/;"	a	object:60
+flags	opcodes.json	/^        "flags": [$/;"	a	object:61
+flags	opcodes.json	/^        "flags": [$/;"	a	object:62
+flags	opcodes.json	/^        "flags": [$/;"	a	object:63
+flags	opcodes.json	/^        "flags": [$/;"	a	object:64
+flags	opcodes.json	/^        "flags": [$/;"	a	object:65
+flags	opcodes.json	/^        "flags": [$/;"	a	object:66
+flags	opcodes.json	/^        "flags": [$/;"	a	object:67
+flags	opcodes.json	/^        "flags": [$/;"	a	object:68
+flags	opcodes.json	/^        "flags": [$/;"	a	object:69
+flags	opcodes.json	/^        "flags": [$/;"	a	object:7
+flags	opcodes.json	/^        "flags": [$/;"	a	object:70
+flags	opcodes.json	/^        "flags": [$/;"	a	object:71
+flags	opcodes.json	/^        "flags": [$/;"	a	object:72
+flags	opcodes.json	/^        "flags": [$/;"	a	object:73
+flags	opcodes.json	/^        "flags": [$/;"	a	object:74
+flags	opcodes.json	/^        "flags": [$/;"	a	object:75
+flags	opcodes.json	/^        "flags": [$/;"	a	object:76
+flags	opcodes.json	/^        "flags": [$/;"	a	object:77
+flags	opcodes.json	/^        "flags": [$/;"	a	object:78
+flags	opcodes.json	/^        "flags": [$/;"	a	object:79
+flags	opcodes.json	/^        "flags": [$/;"	a	object:8
+flags	opcodes.json	/^        "flags": [$/;"	a	object:80
+flags	opcodes.json	/^        "flags": [$/;"	a	object:81
+flags	opcodes.json	/^        "flags": [$/;"	a	object:82
+flags	opcodes.json	/^        "flags": [$/;"	a	object:83
+flags	opcodes.json	/^        "flags": [$/;"	a	object:84
+flags	opcodes.json	/^        "flags": [$/;"	a	object:85
+flags	opcodes.json	/^        "flags": [$/;"	a	object:86
+flags	opcodes.json	/^        "flags": [$/;"	a	object:87
+flags	opcodes.json	/^        "flags": [$/;"	a	object:88
+flags	opcodes.json	/^        "flags": [$/;"	a	object:89
+flags	opcodes.json	/^        "flags": [$/;"	a	object:9
+flags	opcodes.json	/^        "flags": [$/;"	a	object:90
+flags	opcodes.json	/^        "flags": [$/;"	a	object:91
+flags	opcodes.json	/^        "flags": [$/;"	a	object:92
+flags	opcodes.json	/^        "flags": [$/;"	a	object:93
+flags	opcodes.json	/^        "flags": [$/;"	a	object:94
+flags	opcodes.json	/^        "flags": [$/;"	a	object:95
+flags	opcodes.json	/^        "flags": [$/;"	a	object:96
+flags	opcodes.json	/^        "flags": [$/;"	a	object:97
+flags	opcodes.json	/^        "flags": [$/;"	a	object:98
+flags	opcodes.json	/^        "flags": [$/;"	a	object:99
+init	emu/cmd/root.go	/^func init() {$/;"	f	package:cmd
+init	regen/cmd/root.go	/^func init() {$/;"	f	package:cmd
+initConfig	emu/cmd/root.go	/^func initConfig() {$/;"	f	package:cmd
+initConfig	regen/cmd/root.go	/^func initConfig() {$/;"	f	package:cmd
+main	emu/main.go	/^func main() {$/;"	f	package:main
+main	emu/main.go	/^package main$/;"	p
+main	regen/main.go	/^func main() {$/;"	f	package:main
+main	regen/main.go	/^package main$/;"	p
+name	opcodes.json	/^        "name": "-",$/;"	s	object:16
+name	opcodes.json	/^        "name": "-",$/;"	s	object:203
+name	opcodes.json	/^        "name": "-",$/;"	s	object:217
+name	opcodes.json	/^        "name": "-",$/;"	s	object:221
+name	opcodes.json	/^        "name": "-",$/;"	s	object:237
+name	opcodes.json	/^        "name": "-",$/;"	s	object:24
+name	opcodes.json	/^        "name": "-",$/;"	s	object:253
+name	opcodes.json	/^        "name": "-",$/;"	s	object:40
+name	opcodes.json	/^        "name": "-",$/;"	s	object:56
+name	opcodes.json	/^        "name": "-",$/;"	s	object:8
+name	opcodes.json	/^        "name": "ACI D8",$/;"	s	object:206
+name	opcodes.json	/^        "name": "ADC A",$/;"	s	object:143
+name	opcodes.json	/^        "name": "ADC B",$/;"	s	object:136
+name	opcodes.json	/^        "name": "ADC C",$/;"	s	object:137
+name	opcodes.json	/^        "name": "ADC D",$/;"	s	object:138
+name	opcodes.json	/^        "name": "ADC E",$/;"	s	object:139
+name	opcodes.json	/^        "name": "ADC H",$/;"	s	object:140
+name	opcodes.json	/^        "name": "ADC L",$/;"	s	object:141
+name	opcodes.json	/^        "name": "ADC M",$/;"	s	object:142
+name	opcodes.json	/^        "name": "ADD A",$/;"	s	object:135
+name	opcodes.json	/^        "name": "ADD B",$/;"	s	object:128
+name	opcodes.json	/^        "name": "ADD C",$/;"	s	object:129
+name	opcodes.json	/^        "name": "ADD D",$/;"	s	object:130
+name	opcodes.json	/^        "name": "ADD E",$/;"	s	object:131
+name	opcodes.json	/^        "name": "ADD H",$/;"	s	object:132
+name	opcodes.json	/^        "name": "ADD L",$/;"	s	object:133
+name	opcodes.json	/^        "name": "ADD M",$/;"	s	object:134
+name	opcodes.json	/^        "name": "ADI D8",$/;"	s	object:198
+name	opcodes.json	/^        "name": "ANA A",$/;"	s	object:167
+name	opcodes.json	/^        "name": "ANA B",$/;"	s	object:160
+name	opcodes.json	/^        "name": "ANA C",$/;"	s	object:161
+name	opcodes.json	/^        "name": "ANA D",$/;"	s	object:162
+name	opcodes.json	/^        "name": "ANA E",$/;"	s	object:163
+name	opcodes.json	/^        "name": "ANA H",$/;"	s	object:164
+name	opcodes.json	/^        "name": "ANA L",$/;"	s	object:165
+name	opcodes.json	/^        "name": "ANA M",$/;"	s	object:166
+name	opcodes.json	/^        "name": "ANI D8",$/;"	s	object:230
+name	opcodes.json	/^        "name": "CALL adr",$/;"	s	object:205
+name	opcodes.json	/^        "name": "CC adr",$/;"	s	object:220
+name	opcodes.json	/^        "name": "CM adr",$/;"	s	object:252
+name	opcodes.json	/^        "name": "CMA",$/;"	s	object:47
+name	opcodes.json	/^        "name": "CMC",$/;"	s	object:63
+name	opcodes.json	/^        "name": "CMP A",$/;"	s	object:191
+name	opcodes.json	/^        "name": "CMP B",$/;"	s	object:184
+name	opcodes.json	/^        "name": "CMP C",$/;"	s	object:185
+name	opcodes.json	/^        "name": "CMP D",$/;"	s	object:186
+name	opcodes.json	/^        "name": "CMP E",$/;"	s	object:187
+name	opcodes.json	/^        "name": "CMP H",$/;"	s	object:188
+name	opcodes.json	/^        "name": "CMP L",$/;"	s	object:189
+name	opcodes.json	/^        "name": "CMP M",$/;"	s	object:190
+name	opcodes.json	/^        "name": "CNC adr",$/;"	s	object:212
+name	opcodes.json	/^        "name": "CNZ adr",$/;"	s	object:196
+name	opcodes.json	/^        "name": "CP adr",$/;"	s	object:244
+name	opcodes.json	/^        "name": "CPE adr",$/;"	s	object:236
+name	opcodes.json	/^        "name": "CPI D8",$/;"	s	object:254
+name	opcodes.json	/^        "name": "CPO adr",$/;"	s	object:228
+name	opcodes.json	/^        "name": "CZ adr",$/;"	s	object:204
+name	opcodes.json	/^        "name": "DAA",$/;"	s	object:39
+name	opcodes.json	/^        "name": "DAD B",$/;"	s	object:9
+name	opcodes.json	/^        "name": "DAD D",$/;"	s	object:25
+name	opcodes.json	/^        "name": "DAD H",$/;"	s	object:41
+name	opcodes.json	/^        "name": "DAD SP",$/;"	s	object:57
+name	opcodes.json	/^        "name": "DCR A",$/;"	s	object:61
+name	opcodes.json	/^        "name": "DCR B",$/;"	s	object:5
+name	opcodes.json	/^        "name": "DCR C",$/;"	s	object:13
+name	opcodes.json	/^        "name": "DCR D",$/;"	s	object:21
+name	opcodes.json	/^        "name": "DCR E",$/;"	s	object:29
+name	opcodes.json	/^        "name": "DCR H",$/;"	s	object:37
+name	opcodes.json	/^        "name": "DCR L",$/;"	s	object:45
+name	opcodes.json	/^        "name": "DCR M",$/;"	s	object:53
+name	opcodes.json	/^        "name": "DCX B",$/;"	s	object:11
+name	opcodes.json	/^        "name": "DCX D",$/;"	s	object:27
+name	opcodes.json	/^        "name": "DCX H",$/;"	s	object:43
+name	opcodes.json	/^        "name": "DCX SP",$/;"	s	object:59
+name	opcodes.json	/^        "name": "DI",$/;"	s	object:243
+name	opcodes.json	/^        "name": "EI",$/;"	s	object:251
+name	opcodes.json	/^        "name": "HLT",$/;"	s	object:118
+name	opcodes.json	/^        "name": "IN D8",$/;"	s	object:219
+name	opcodes.json	/^        "name": "INR A",$/;"	s	object:60
+name	opcodes.json	/^        "name": "INR B",$/;"	s	object:4
+name	opcodes.json	/^        "name": "INR C",$/;"	s	object:12
+name	opcodes.json	/^        "name": "INR D",$/;"	s	object:20
+name	opcodes.json	/^        "name": "INR E",$/;"	s	object:28
+name	opcodes.json	/^        "name": "INR H",$/;"	s	object:36
+name	opcodes.json	/^        "name": "INR L",$/;"	s	object:44
+name	opcodes.json	/^        "name": "INR M",$/;"	s	object:52
+name	opcodes.json	/^        "name": "INX B",$/;"	s	object:3
+name	opcodes.json	/^        "name": "INX D",$/;"	s	object:19
+name	opcodes.json	/^        "name": "INX H",$/;"	s	object:35
+name	opcodes.json	/^        "name": "INX SP",$/;"	s	object:51
+name	opcodes.json	/^        "name": "JC adr",$/;"	s	object:218
+name	opcodes.json	/^        "name": "JM adr",$/;"	s	object:250
+name	opcodes.json	/^        "name": "JMP adr",$/;"	s	object:195
+name	opcodes.json	/^        "name": "JNC adr",$/;"	s	object:210
+name	opcodes.json	/^        "name": "JNZ adr",$/;"	s	object:194
+name	opcodes.json	/^        "name": "JP adr",$/;"	s	object:242
+name	opcodes.json	/^        "name": "JPE adr",$/;"	s	object:234
+name	opcodes.json	/^        "name": "JPO adr",$/;"	s	object:226
+name	opcodes.json	/^        "name": "JZ adr",$/;"	s	object:202
+name	opcodes.json	/^        "name": "LDA adr",$/;"	s	object:58
+name	opcodes.json	/^        "name": "LDAX B",$/;"	s	object:10
+name	opcodes.json	/^        "name": "LDAX D",$/;"	s	object:26
+name	opcodes.json	/^        "name": "LHLD adr",$/;"	s	object:42
+name	opcodes.json	/^        "name": "LXI B,D16",$/;"	s	object:1
+name	opcodes.json	/^        "name": "LXI D,D16",$/;"	s	object:17
+name	opcodes.json	/^        "name": "LXI H,D16",$/;"	s	object:33
+name	opcodes.json	/^        "name": "LXI SP, D16",$/;"	s	object:49
+name	opcodes.json	/^        "name": "MOV A,A",$/;"	s	object:127
+name	opcodes.json	/^        "name": "MOV A,B",$/;"	s	object:120
+name	opcodes.json	/^        "name": "MOV A,C",$/;"	s	object:121
+name	opcodes.json	/^        "name": "MOV A,D",$/;"	s	object:122
+name	opcodes.json	/^        "name": "MOV A,E",$/;"	s	object:123
+name	opcodes.json	/^        "name": "MOV A,H",$/;"	s	object:124
+name	opcodes.json	/^        "name": "MOV A,L",$/;"	s	object:125
+name	opcodes.json	/^        "name": "MOV A,M",$/;"	s	object:126
+name	opcodes.json	/^        "name": "MOV B,A",$/;"	s	object:71
+name	opcodes.json	/^        "name": "MOV B,B",$/;"	s	object:64
+name	opcodes.json	/^        "name": "MOV B,C",$/;"	s	object:65
+name	opcodes.json	/^        "name": "MOV B,D",$/;"	s	object:66
+name	opcodes.json	/^        "name": "MOV B,E",$/;"	s	object:67
+name	opcodes.json	/^        "name": "MOV B,H",$/;"	s	object:68
+name	opcodes.json	/^        "name": "MOV B,L",$/;"	s	object:69
+name	opcodes.json	/^        "name": "MOV B,M",$/;"	s	object:70
+name	opcodes.json	/^        "name": "MOV C,A",$/;"	s	object:79
+name	opcodes.json	/^        "name": "MOV C,B",$/;"	s	object:72
+name	opcodes.json	/^        "name": "MOV C,C",$/;"	s	object:73
+name	opcodes.json	/^        "name": "MOV C,D",$/;"	s	object:74
+name	opcodes.json	/^        "name": "MOV C,E",$/;"	s	object:75
+name	opcodes.json	/^        "name": "MOV C,H",$/;"	s	object:76
+name	opcodes.json	/^        "name": "MOV C,L",$/;"	s	object:77
+name	opcodes.json	/^        "name": "MOV C,M",$/;"	s	object:78
+name	opcodes.json	/^        "name": "MOV D,A",$/;"	s	object:87
+name	opcodes.json	/^        "name": "MOV D,B",$/;"	s	object:80
+name	opcodes.json	/^        "name": "MOV D,C",$/;"	s	object:81
+name	opcodes.json	/^        "name": "MOV D,D",$/;"	s	object:82
+name	opcodes.json	/^        "name": "MOV D,E",$/;"	s	object:83
+name	opcodes.json	/^        "name": "MOV D,H",$/;"	s	object:84
+name	opcodes.json	/^        "name": "MOV D,L",$/;"	s	object:85
+name	opcodes.json	/^        "name": "MOV D,M",$/;"	s	object:86
+name	opcodes.json	/^        "name": "MOV E,A",$/;"	s	object:95
+name	opcodes.json	/^        "name": "MOV E,B",$/;"	s	object:88
+name	opcodes.json	/^        "name": "MOV E,C",$/;"	s	object:89
+name	opcodes.json	/^        "name": "MOV E,D",$/;"	s	object:90
+name	opcodes.json	/^        "name": "MOV E,E",$/;"	s	object:91
+name	opcodes.json	/^        "name": "MOV E,H",$/;"	s	object:92
+name	opcodes.json	/^        "name": "MOV E,L",$/;"	s	object:93
+name	opcodes.json	/^        "name": "MOV E,M",$/;"	s	object:94
+name	opcodes.json	/^        "name": "MOV H,A",$/;"	s	object:103
+name	opcodes.json	/^        "name": "MOV H,B",$/;"	s	object:96
+name	opcodes.json	/^        "name": "MOV H,C",$/;"	s	object:97
+name	opcodes.json	/^        "name": "MOV H,D",$/;"	s	object:98
+name	opcodes.json	/^        "name": "MOV H,E",$/;"	s	object:99
+name	opcodes.json	/^        "name": "MOV H,H",$/;"	s	object:100
+name	opcodes.json	/^        "name": "MOV H,L",$/;"	s	object:101
+name	opcodes.json	/^        "name": "MOV H,M",$/;"	s	object:102
+name	opcodes.json	/^        "name": "MOV L,A",$/;"	s	object:111
+name	opcodes.json	/^        "name": "MOV L,B",$/;"	s	object:104
+name	opcodes.json	/^        "name": "MOV L,C",$/;"	s	object:105
+name	opcodes.json	/^        "name": "MOV L,D",$/;"	s	object:106
+name	opcodes.json	/^        "name": "MOV L,E",$/;"	s	object:107
+name	opcodes.json	/^        "name": "MOV L,H",$/;"	s	object:108
+name	opcodes.json	/^        "name": "MOV L,L",$/;"	s	object:109
+name	opcodes.json	/^        "name": "MOV L,M",$/;"	s	object:110
+name	opcodes.json	/^        "name": "MOV M,A",$/;"	s	object:119
+name	opcodes.json	/^        "name": "MOV M,B",$/;"	s	object:112
+name	opcodes.json	/^        "name": "MOV M,C",$/;"	s	object:113
+name	opcodes.json	/^        "name": "MOV M,D",$/;"	s	object:114
+name	opcodes.json	/^        "name": "MOV M,E",$/;"	s	object:115
+name	opcodes.json	/^        "name": "MOV M,H",$/;"	s	object:116
+name	opcodes.json	/^        "name": "MOV M,L",$/;"	s	object:117
+name	opcodes.json	/^        "name": "MVI A,D8",$/;"	s	object:62
+name	opcodes.json	/^        "name": "MVI B, D8",$/;"	s	object:6
+name	opcodes.json	/^        "name": "MVI C,D8",$/;"	s	object:14
+name	opcodes.json	/^        "name": "MVI D, D8",$/;"	s	object:22
+name	opcodes.json	/^        "name": "MVI E,D8",$/;"	s	object:30
+name	opcodes.json	/^        "name": "MVI H,D8",$/;"	s	object:38
+name	opcodes.json	/^        "name": "MVI L, D8",$/;"	s	object:46
+name	opcodes.json	/^        "name": "MVI M,D8",$/;"	s	object:54
+name	opcodes.json	/^        "name": "NOP",$/;"	s	object:0
+name	opcodes.json	/^        "name": "ORA A",$/;"	s	object:183
+name	opcodes.json	/^        "name": "ORA B",$/;"	s	object:176
+name	opcodes.json	/^        "name": "ORA C",$/;"	s	object:177
+name	opcodes.json	/^        "name": "ORA D",$/;"	s	object:178
+name	opcodes.json	/^        "name": "ORA E",$/;"	s	object:179
+name	opcodes.json	/^        "name": "ORA H",$/;"	s	object:180
+name	opcodes.json	/^        "name": "ORA L",$/;"	s	object:181
+name	opcodes.json	/^        "name": "ORA M",$/;"	s	object:182
+name	opcodes.json	/^        "name": "ORI D8",$/;"	s	object:246
+name	opcodes.json	/^        "name": "OUT D8",$/;"	s	object:211
+name	opcodes.json	/^        "name": "PCHL",$/;"	s	object:233
+name	opcodes.json	/^        "name": "POP B",$/;"	s	object:193
+name	opcodes.json	/^        "name": "POP D",$/;"	s	object:209
+name	opcodes.json	/^        "name": "POP H",$/;"	s	object:225
+name	opcodes.json	/^        "name": "POP PSW",$/;"	s	object:241
+name	opcodes.json	/^        "name": "PUSH B",$/;"	s	object:197
+name	opcodes.json	/^        "name": "PUSH D",$/;"	s	object:213
+name	opcodes.json	/^        "name": "PUSH H",$/;"	s	object:229
+name	opcodes.json	/^        "name": "PUSH PSW",$/;"	s	object:245
+name	opcodes.json	/^        "name": "RAL",$/;"	s	object:23
+name	opcodes.json	/^        "name": "RAR",$/;"	s	object:31
+name	opcodes.json	/^        "name": "RC",$/;"	s	object:216
+name	opcodes.json	/^        "name": "RET",$/;"	s	object:201
+name	opcodes.json	/^        "name": "RIM",$/;"	s	object:32
+name	opcodes.json	/^        "name": "RLC",$/;"	s	object:7
+name	opcodes.json	/^        "name": "RM",$/;"	s	object:248
+name	opcodes.json	/^        "name": "RNC",$/;"	s	object:208
+name	opcodes.json	/^        "name": "RNZ",$/;"	s	object:192
+name	opcodes.json	/^        "name": "RP",$/;"	s	object:240
+name	opcodes.json	/^        "name": "RPE",$/;"	s	object:232
+name	opcodes.json	/^        "name": "RPO",$/;"	s	object:224
+name	opcodes.json	/^        "name": "RRC",$/;"	s	object:15
+name	opcodes.json	/^        "name": "RST 0",$/;"	s	object:199
+name	opcodes.json	/^        "name": "RST 1",$/;"	s	object:207
+name	opcodes.json	/^        "name": "RST 2",$/;"	s	object:215
+name	opcodes.json	/^        "name": "RST 3",$/;"	s	object:223
+name	opcodes.json	/^        "name": "RST 4",$/;"	s	object:231
+name	opcodes.json	/^        "name": "RST 5",$/;"	s	object:239
+name	opcodes.json	/^        "name": "RST 6",$/;"	s	object:247
+name	opcodes.json	/^        "name": "RST 7",$/;"	s	object:255
+name	opcodes.json	/^        "name": "RZ",$/;"	s	object:200
+name	opcodes.json	/^        "name": "SBB A",$/;"	s	object:159
+name	opcodes.json	/^        "name": "SBB B",$/;"	s	object:152
+name	opcodes.json	/^        "name": "SBB C",$/;"	s	object:153
+name	opcodes.json	/^        "name": "SBB D",$/;"	s	object:154
+name	opcodes.json	/^        "name": "SBB E",$/;"	s	object:155
+name	opcodes.json	/^        "name": "SBB H",$/;"	s	object:156
+name	opcodes.json	/^        "name": "SBB L",$/;"	s	object:157
+name	opcodes.json	/^        "name": "SBB M",$/;"	s	object:158
+name	opcodes.json	/^        "name": "SBI D8",$/;"	s	object:222
+name	opcodes.json	/^        "name": "SHLD adr",$/;"	s	object:34
+name	opcodes.json	/^        "name": "SIM",$/;"	s	object:48
+name	opcodes.json	/^        "name": "SPHL",$/;"	s	object:249
+name	opcodes.json	/^        "name": "STA adr",$/;"	s	object:50
+name	opcodes.json	/^        "name": "STAX B",$/;"	s	object:2
+name	opcodes.json	/^        "name": "STAX D",$/;"	s	object:18
+name	opcodes.json	/^        "name": "STC",$/;"	s	object:55
+name	opcodes.json	/^        "name": "SUB A",$/;"	s	object:151
+name	opcodes.json	/^        "name": "SUB B",$/;"	s	object:144
+name	opcodes.json	/^        "name": "SUB C",$/;"	s	object:145
+name	opcodes.json	/^        "name": "SUB D",$/;"	s	object:146
+name	opcodes.json	/^        "name": "SUB E",$/;"	s	object:147
+name	opcodes.json	/^        "name": "SUB H",$/;"	s	object:148
+name	opcodes.json	/^        "name": "SUB L",$/;"	s	object:149
+name	opcodes.json	/^        "name": "SUB M",$/;"	s	object:150
+name	opcodes.json	/^        "name": "SUI D8",$/;"	s	object:214
+name	opcodes.json	/^        "name": "XCHG",$/;"	s	object:235
+name	opcodes.json	/^        "name": "XRA A",$/;"	s	object:175
+name	opcodes.json	/^        "name": "XRA B",$/;"	s	object:168
+name	opcodes.json	/^        "name": "XRA C",$/;"	s	object:169
+name	opcodes.json	/^        "name": "XRA D",$/;"	s	object:170
+name	opcodes.json	/^        "name": "XRA E",$/;"	s	object:171
+name	opcodes.json	/^        "name": "XRA H",$/;"	s	object:172
+name	opcodes.json	/^        "name": "XRA L",$/;"	s	object:173
+name	opcodes.json	/^        "name": "XRA M",$/;"	s	object:174
+name	opcodes.json	/^        "name": "XRI D8",$/;"	s	object:238
+name	opcodes.json	/^        "name": "XTHL",$/;"	s	object:227
+op	emu/op/handle.go	/^package op$/;"	p
+op	regen/op/handle.go	/^package op$/;"	p
+panicErr	emu/cmd/root.go	/^func panicErr(err error) {$/;"	f	package:cmd
+panicErr	regen/cmd/root.go	/^func panicErr(err error) {$/;"	f	package:cmd
+rootCmd	emu/cmd/root.go	/^	rootCmd = &cobra.Command{$/;"	v	package:cmd
+rootCmd	regen/cmd/root.go	/^	rootCmd = &cobra.Command{$/;"	v	package:cmd
+run	regen/Makefile	/^run:$/;"	t
+size	opcodes.json	/^        "size": 1,$/;"	n	object:0
+size	opcodes.json	/^        "size": 1,$/;"	n	object:10
+size	opcodes.json	/^        "size": 1,$/;"	n	object:100
+size	opcodes.json	/^        "size": 1,$/;"	n	object:101
+size	opcodes.json	/^        "size": 1,$/;"	n	object:102
+size	opcodes.json	/^        "size": 1,$/;"	n	object:103
+size	opcodes.json	/^        "size": 1,$/;"	n	object:104
+size	opcodes.json	/^        "size": 1,$/;"	n	object:105
+size	opcodes.json	/^        "size": 1,$/;"	n	object:106
+size	opcodes.json	/^        "size": 1,$/;"	n	object:107
+size	opcodes.json	/^        "size": 1,$/;"	n	object:108
+size	opcodes.json	/^        "size": 1,$/;"	n	object:109
+size	opcodes.json	/^        "size": 1,$/;"	n	object:11
+size	opcodes.json	/^        "size": 1,$/;"	n	object:110
+size	opcodes.json	/^        "size": 1,$/;"	n	object:111
+size	opcodes.json	/^        "size": 1,$/;"	n	object:112
+size	opcodes.json	/^        "size": 1,$/;"	n	object:113
+size	opcodes.json	/^        "size": 1,$/;"	n	object:114
+size	opcodes.json	/^        "size": 1,$/;"	n	object:115
+size	opcodes.json	/^        "size": 1,$/;"	n	object:116
+size	opcodes.json	/^        "size": 1,$/;"	n	object:117
+size	opcodes.json	/^        "size": 1,$/;"	n	object:118
+size	opcodes.json	/^        "size": 1,$/;"	n	object:119
+size	opcodes.json	/^        "size": 1,$/;"	n	object:12
+size	opcodes.json	/^        "size": 1,$/;"	n	object:120
+size	opcodes.json	/^        "size": 1,$/;"	n	object:121
+size	opcodes.json	/^        "size": 1,$/;"	n	object:122
+size	opcodes.json	/^        "size": 1,$/;"	n	object:123
+size	opcodes.json	/^        "size": 1,$/;"	n	object:124
+size	opcodes.json	/^        "size": 1,$/;"	n	object:125
+size	opcodes.json	/^        "size": 1,$/;"	n	object:126
+size	opcodes.json	/^        "size": 1,$/;"	n	object:127
+size	opcodes.json	/^        "size": 1,$/;"	n	object:128
+size	opcodes.json	/^        "size": 1,$/;"	n	object:129
+size	opcodes.json	/^        "size": 1,$/;"	n	object:13
+size	opcodes.json	/^        "size": 1,$/;"	n	object:130
+size	opcodes.json	/^        "size": 1,$/;"	n	object:131
+size	opcodes.json	/^        "size": 1,$/;"	n	object:132
+size	opcodes.json	/^        "size": 1,$/;"	n	object:133
+size	opcodes.json	/^        "size": 1,$/;"	n	object:134
+size	opcodes.json	/^        "size": 1,$/;"	n	object:135
+size	opcodes.json	/^        "size": 1,$/;"	n	object:136
+size	opcodes.json	/^        "size": 1,$/;"	n	object:137
+size	opcodes.json	/^        "size": 1,$/;"	n	object:138
+size	opcodes.json	/^        "size": 1,$/;"	n	object:139
+size	opcodes.json	/^        "size": 1,$/;"	n	object:140
+size	opcodes.json	/^        "size": 1,$/;"	n	object:141
+size	opcodes.json	/^        "size": 1,$/;"	n	object:142
+size	opcodes.json	/^        "size": 1,$/;"	n	object:143
+size	opcodes.json	/^        "size": 1,$/;"	n	object:144
+size	opcodes.json	/^        "size": 1,$/;"	n	object:145
+size	opcodes.json	/^        "size": 1,$/;"	n	object:146
+size	opcodes.json	/^        "size": 1,$/;"	n	object:147
+size	opcodes.json	/^        "size": 1,$/;"	n	object:148
+size	opcodes.json	/^        "size": 1,$/;"	n	object:149
+size	opcodes.json	/^        "size": 1,$/;"	n	object:15
+size	opcodes.json	/^        "size": 1,$/;"	n	object:150
+size	opcodes.json	/^        "size": 1,$/;"	n	object:151
+size	opcodes.json	/^        "size": 1,$/;"	n	object:152
+size	opcodes.json	/^        "size": 1,$/;"	n	object:153
+size	opcodes.json	/^        "size": 1,$/;"	n	object:154
+size	opcodes.json	/^        "size": 1,$/;"	n	object:155
+size	opcodes.json	/^        "size": 1,$/;"	n	object:156
+size	opcodes.json	/^        "size": 1,$/;"	n	object:157
+size	opcodes.json	/^        "size": 1,$/;"	n	object:158
+size	opcodes.json	/^        "size": 1,$/;"	n	object:159
+size	opcodes.json	/^        "size": 1,$/;"	n	object:16
+size	opcodes.json	/^        "size": 1,$/;"	n	object:160
+size	opcodes.json	/^        "size": 1,$/;"	n	object:161
+size	opcodes.json	/^        "size": 1,$/;"	n	object:162
+size	opcodes.json	/^        "size": 1,$/;"	n	object:163
+size	opcodes.json	/^        "size": 1,$/;"	n	object:164
+size	opcodes.json	/^        "size": 1,$/;"	n	object:165
+size	opcodes.json	/^        "size": 1,$/;"	n	object:166
+size	opcodes.json	/^        "size": 1,$/;"	n	object:167
+size	opcodes.json	/^        "size": 1,$/;"	n	object:168
+size	opcodes.json	/^        "size": 1,$/;"	n	object:169
+size	opcodes.json	/^        "size": 1,$/;"	n	object:170
+size	opcodes.json	/^        "size": 1,$/;"	n	object:171
+size	opcodes.json	/^        "size": 1,$/;"	n	object:172
+size	opcodes.json	/^        "size": 1,$/;"	n	object:173
+size	opcodes.json	/^        "size": 1,$/;"	n	object:174
+size	opcodes.json	/^        "size": 1,$/;"	n	object:175
+size	opcodes.json	/^        "size": 1,$/;"	n	object:176
+size	opcodes.json	/^        "size": 1,$/;"	n	object:177
+size	opcodes.json	/^        "size": 1,$/;"	n	object:178
+size	opcodes.json	/^        "size": 1,$/;"	n	object:179
+size	opcodes.json	/^        "size": 1,$/;"	n	object:18
+size	opcodes.json	/^        "size": 1,$/;"	n	object:180
+size	opcodes.json	/^        "size": 1,$/;"	n	object:181
+size	opcodes.json	/^        "size": 1,$/;"	n	object:182
+size	opcodes.json	/^        "size": 1,$/;"	n	object:183
+size	opcodes.json	/^        "size": 1,$/;"	n	object:184
+size	opcodes.json	/^        "size": 1,$/;"	n	object:185
+size	opcodes.json	/^        "size": 1,$/;"	n	object:186
+size	opcodes.json	/^        "size": 1,$/;"	n	object:187
+size	opcodes.json	/^        "size": 1,$/;"	n	object:188
+size	opcodes.json	/^        "size": 1,$/;"	n	object:189
+size	opcodes.json	/^        "size": 1,$/;"	n	object:19
+size	opcodes.json	/^        "size": 1,$/;"	n	object:190
+size	opcodes.json	/^        "size": 1,$/;"	n	object:191
+size	opcodes.json	/^        "size": 1,$/;"	n	object:192
+size	opcodes.json	/^        "size": 1,$/;"	n	object:193
+size	opcodes.json	/^        "size": 1,$/;"	n	object:197
+size	opcodes.json	/^        "size": 1,$/;"	n	object:199
+size	opcodes.json	/^        "size": 1,$/;"	n	object:2
+size	opcodes.json	/^        "size": 1,$/;"	n	object:20
+size	opcodes.json	/^        "size": 1,$/;"	n	object:200
+size	opcodes.json	/^        "size": 1,$/;"	n	object:201
+size	opcodes.json	/^        "size": 1,$/;"	n	object:203
+size	opcodes.json	/^        "size": 1,$/;"	n	object:207
+size	opcodes.json	/^        "size": 1,$/;"	n	object:208
+size	opcodes.json	/^        "size": 1,$/;"	n	object:209
+size	opcodes.json	/^        "size": 1,$/;"	n	object:21
+size	opcodes.json	/^        "size": 1,$/;"	n	object:213
+size	opcodes.json	/^        "size": 1,$/;"	n	object:215
+size	opcodes.json	/^        "size": 1,$/;"	n	object:216
+size	opcodes.json	/^        "size": 1,$/;"	n	object:217
+size	opcodes.json	/^        "size": 1,$/;"	n	object:221
+size	opcodes.json	/^        "size": 1,$/;"	n	object:223
+size	opcodes.json	/^        "size": 1,$/;"	n	object:224
+size	opcodes.json	/^        "size": 1,$/;"	n	object:225
+size	opcodes.json	/^        "size": 1,$/;"	n	object:227
+size	opcodes.json	/^        "size": 1,$/;"	n	object:229
+size	opcodes.json	/^        "size": 1,$/;"	n	object:23
+size	opcodes.json	/^        "size": 1,$/;"	n	object:231
+size	opcodes.json	/^        "size": 1,$/;"	n	object:232
+size	opcodes.json	/^        "size": 1,$/;"	n	object:233
+size	opcodes.json	/^        "size": 1,$/;"	n	object:235
+size	opcodes.json	/^        "size": 1,$/;"	n	object:237
+size	opcodes.json	/^        "size": 1,$/;"	n	object:239
+size	opcodes.json	/^        "size": 1,$/;"	n	object:24
+size	opcodes.json	/^        "size": 1,$/;"	n	object:240
+size	opcodes.json	/^        "size": 1,$/;"	n	object:241
+size	opcodes.json	/^        "size": 1,$/;"	n	object:243
+size	opcodes.json	/^        "size": 1,$/;"	n	object:245
+size	opcodes.json	/^        "size": 1,$/;"	n	object:247
+size	opcodes.json	/^        "size": 1,$/;"	n	object:248
+size	opcodes.json	/^        "size": 1,$/;"	n	object:249
+size	opcodes.json	/^        "size": 1,$/;"	n	object:25
+size	opcodes.json	/^        "size": 1,$/;"	n	object:251
+size	opcodes.json	/^        "size": 1,$/;"	n	object:253
+size	opcodes.json	/^        "size": 1,$/;"	n	object:255
+size	opcodes.json	/^        "size": 1,$/;"	n	object:26
+size	opcodes.json	/^        "size": 1,$/;"	n	object:27
+size	opcodes.json	/^        "size": 1,$/;"	n	object:28
+size	opcodes.json	/^        "size": 1,$/;"	n	object:29
+size	opcodes.json	/^        "size": 1,$/;"	n	object:3
+size	opcodes.json	/^        "size": 1,$/;"	n	object:31
+size	opcodes.json	/^        "size": 1,$/;"	n	object:32
+size	opcodes.json	/^        "size": 1,$/;"	n	object:35
+size	opcodes.json	/^        "size": 1,$/;"	n	object:36
+size	opcodes.json	/^        "size": 1,$/;"	n	object:37
+size	opcodes.json	/^        "size": 1,$/;"	n	object:39
+size	opcodes.json	/^        "size": 1,$/;"	n	object:4
+size	opcodes.json	/^        "size": 1,$/;"	n	object:40
+size	opcodes.json	/^        "size": 1,$/;"	n	object:41
+size	opcodes.json	/^        "size": 1,$/;"	n	object:43
+size	opcodes.json	/^        "size": 1,$/;"	n	object:44
+size	opcodes.json	/^        "size": 1,$/;"	n	object:45
+size	opcodes.json	/^        "size": 1,$/;"	n	object:47
+size	opcodes.json	/^        "size": 1,$/;"	n	object:48
+size	opcodes.json	/^        "size": 1,$/;"	n	object:5
+size	opcodes.json	/^        "size": 1,$/;"	n	object:51
+size	opcodes.json	/^        "size": 1,$/;"	n	object:52
+size	opcodes.json	/^        "size": 1,$/;"	n	object:53
+size	opcodes.json	/^        "size": 1,$/;"	n	object:55
+size	opcodes.json	/^        "size": 1,$/;"	n	object:56
+size	opcodes.json	/^        "size": 1,$/;"	n	object:57
+size	opcodes.json	/^        "size": 1,$/;"	n	object:59
+size	opcodes.json	/^        "size": 1,$/;"	n	object:60
+size	opcodes.json	/^        "size": 1,$/;"	n	object:61
+size	opcodes.json	/^        "size": 1,$/;"	n	object:63
+size	opcodes.json	/^        "size": 1,$/;"	n	object:64
+size	opcodes.json	/^        "size": 1,$/;"	n	object:65
+size	opcodes.json	/^        "size": 1,$/;"	n	object:66
+size	opcodes.json	/^        "size": 1,$/;"	n	object:67
+size	opcodes.json	/^        "size": 1,$/;"	n	object:68
+size	opcodes.json	/^        "size": 1,$/;"	n	object:69
+size	opcodes.json	/^        "size": 1,$/;"	n	object:7
+size	opcodes.json	/^        "size": 1,$/;"	n	object:70
+size	opcodes.json	/^        "size": 1,$/;"	n	object:71
+size	opcodes.json	/^        "size": 1,$/;"	n	object:72
+size	opcodes.json	/^        "size": 1,$/;"	n	object:73
+size	opcodes.json	/^        "size": 1,$/;"	n	object:74
+size	opcodes.json	/^        "size": 1,$/;"	n	object:75
+size	opcodes.json	/^        "size": 1,$/;"	n	object:76
+size	opcodes.json	/^        "size": 1,$/;"	n	object:77
+size	opcodes.json	/^        "size": 1,$/;"	n	object:78
+size	opcodes.json	/^        "size": 1,$/;"	n	object:79
+size	opcodes.json	/^        "size": 1,$/;"	n	object:8
+size	opcodes.json	/^        "size": 1,$/;"	n	object:80
+size	opcodes.json	/^        "size": 1,$/;"	n	object:81
+size	opcodes.json	/^        "size": 1,$/;"	n	object:82
+size	opcodes.json	/^        "size": 1,$/;"	n	object:83
+size	opcodes.json	/^        "size": 1,$/;"	n	object:84
+size	opcodes.json	/^        "size": 1,$/;"	n	object:85
+size	opcodes.json	/^        "size": 1,$/;"	n	object:86
+size	opcodes.json	/^        "size": 1,$/;"	n	object:87
+size	opcodes.json	/^        "size": 1,$/;"	n	object:88
+size	opcodes.json	/^        "size": 1,$/;"	n	object:89
+size	opcodes.json	/^        "size": 1,$/;"	n	object:9
+size	opcodes.json	/^        "size": 1,$/;"	n	object:90
+size	opcodes.json	/^        "size": 1,$/;"	n	object:91
+size	opcodes.json	/^        "size": 1,$/;"	n	object:92
+size	opcodes.json	/^        "size": 1,$/;"	n	object:93
+size	opcodes.json	/^        "size": 1,$/;"	n	object:94
+size	opcodes.json	/^        "size": 1,$/;"	n	object:95
+size	opcodes.json	/^        "size": 1,$/;"	n	object:96
+size	opcodes.json	/^        "size": 1,$/;"	n	object:97
+size	opcodes.json	/^        "size": 1,$/;"	n	object:98
+size	opcodes.json	/^        "size": 1,$/;"	n	object:99
+size	opcodes.json	/^        "size": 2,$/;"	n	object:14
+size	opcodes.json	/^        "size": 2,$/;"	n	object:198
+size	opcodes.json	/^        "size": 2,$/;"	n	object:206
+size	opcodes.json	/^        "size": 2,$/;"	n	object:211
+size	opcodes.json	/^        "size": 2,$/;"	n	object:214
+size	opcodes.json	/^        "size": 2,$/;"	n	object:219
+size	opcodes.json	/^        "size": 2,$/;"	n	object:22
+size	opcodes.json	/^        "size": 2,$/;"	n	object:222
+size	opcodes.json	/^        "size": 2,$/;"	n	object:230
+size	opcodes.json	/^        "size": 2,$/;"	n	object:238
+size	opcodes.json	/^        "size": 2,$/;"	n	object:246
+size	opcodes.json	/^        "size": 2,$/;"	n	object:254
+size	opcodes.json	/^        "size": 2,$/;"	n	object:30
+size	opcodes.json	/^        "size": 2,$/;"	n	object:38
+size	opcodes.json	/^        "size": 2,$/;"	n	object:46
+size	opcodes.json	/^        "size": 2,$/;"	n	object:54
+size	opcodes.json	/^        "size": 2,$/;"	n	object:6
+size	opcodes.json	/^        "size": 2,$/;"	n	object:62
+size	opcodes.json	/^        "size": 3,$/;"	n	object:1
+size	opcodes.json	/^        "size": 3,$/;"	n	object:17
+size	opcodes.json	/^        "size": 3,$/;"	n	object:194
+size	opcodes.json	/^        "size": 3,$/;"	n	object:195
+size	opcodes.json	/^        "size": 3,$/;"	n	object:196
+size	opcodes.json	/^        "size": 3,$/;"	n	object:202
+size	opcodes.json	/^        "size": 3,$/;"	n	object:204
+size	opcodes.json	/^        "size": 3,$/;"	n	object:205
+size	opcodes.json	/^        "size": 3,$/;"	n	object:210
+size	opcodes.json	/^        "size": 3,$/;"	n	object:212
+size	opcodes.json	/^        "size": 3,$/;"	n	object:218
+size	opcodes.json	/^        "size": 3,$/;"	n	object:220
+size	opcodes.json	/^        "size": 3,$/;"	n	object:226
+size	opcodes.json	/^        "size": 3,$/;"	n	object:228
+size	opcodes.json	/^        "size": 3,$/;"	n	object:234
+size	opcodes.json	/^        "size": 3,$/;"	n	object:236
+size	opcodes.json	/^        "size": 3,$/;"	n	object:242
+size	opcodes.json	/^        "size": 3,$/;"	n	object:244
+size	opcodes.json	/^        "size": 3,$/;"	n	object:250
+size	opcodes.json	/^        "size": 3,$/;"	n	object:252
+size	opcodes.json	/^        "size": 3,$/;"	n	object:33
+size	opcodes.json	/^        "size": 3,$/;"	n	object:34
+size	opcodes.json	/^        "size": 3,$/;"	n	object:42
+size	opcodes.json	/^        "size": 3,$/;"	n	object:49
+size	opcodes.json	/^        "size": 3,$/;"	n	object:50
+size	opcodes.json	/^        "size": 3,$/;"	n	object:58
