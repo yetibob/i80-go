@@ -1,11 +1,10 @@
-package op
+package vm
 
 import (
 	"fmt"
 )
 
-// HandleOp handles opcodes
-func HandleOp(buf []byte) int {
+func handleOp(buf []byte) int {
 	opbytes := 1
 	switch buf[0] {
 	case 0x00:

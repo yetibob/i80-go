@@ -1,10 +1,8 @@
 package cmd
 
 import (
-	"io/ioutil"
-
 	"github.com/spf13/cobra"
-	"github.com/yetibob/i80/emu/op"
+	"github.com/yetibob/i80/emu/vm"
 )
 
 var (
@@ -17,18 +15,12 @@ var (
 			romFile, err := cmd.PersistentFlags().GetString("rom")
 			panicErr(err)
 
-			rom, err := ioutil.ReadFile(romFile)
+			var vm vm.I80
+			err = vm.Load(romFile)
 			panicErr(err)
 
-			pc := 0
-
-			for {
-				if pc == len(rom) {
-					break
-				}
-				adv := op.HandleOp(rom[pc : pc+3])
-				pc += adv
-			}
+			err = vm.Start()
+			panicErr(err)
 		},
 	}
 )
