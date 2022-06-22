@@ -1,8 +1,10 @@
 GOCMD=go
 GOBUILD=$(GOCMD) build
-
-run:
-	./bin/regen
+ROM=../roms/invaders
 
 build:
 	$(GOBUILD) -o ./bin/regen
+
+run:
+	./bin/regen --rom $(ROM)
+
